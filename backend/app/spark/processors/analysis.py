@@ -1384,10 +1384,25 @@ def generate_pricing_recommendations_improved(df_pred, price_change_fraction, gr
         economics_score = float(row["avg_economics_score"]) if row["avg_economics_score"] else 0.0
         sample_size = int(row["sample_size"])
         
-        # Confidence based on model quality and sample size
-        if model_quality in ["excellent", "good"] and sample_size >= 20:
+        # Confidence based on model quality, sample size, economics score và độ biến thiên (standard error)
+        # Lấy std dev từ aggregation nếu có
+        std_sales = float(row["std_sales_lift"]) if row["std_sales_lift"] else None
+        std_revenue = float(row["std_revenue_lift"]) if row["std_revenue_lift"] else None
+        # Tính standard error (SE) = std / sqrt(n)
+        import math
+        se_sales = (std_sales / math.sqrt(sample_size)) if std_sales and sample_size > 0 else float("inf")
+        se_revenue = (std_revenue / math.sqrt(sample_size)) if std_revenue and sample_size > 0 else float("inf")
+        
+        # Ngưỡng (có thể điều chỉnh): SE nhỏ => estimate ổn định
+        SE_SALES_THRESHOLD_HIGH = 5.0    # % điểm chuẩn cho sales lift
+        SE_REV_THRESHOLD_HIGH = 3.0      # % điểm chuẩn cho revenue lift
+        
+        # stricter rules: high only khi mẫu đủ lớn, mô hình tốt, economics có ý nghĩa và SE nhỏ
+        if model_quality == "excellent" and sample_size >= 50 and abs(economics_score) >= 5 \
+           and se_sales <= SE_SALES_THRESHOLD_HIGH and se_revenue <= SE_REV_THRESHOLD_HIGH:
             confidence = "high"
-        elif model_quality in ["good", "fair"] and sample_size >= 10:
+        elif model_quality in ["excellent", "good"] and sample_size >= 20 and abs(economics_score) >= 2 \
+             and se_sales <= (SE_SALES_THRESHOLD_HIGH * 2):
             confidence = "medium"
         else:
             confidence = "low"
@@ -1448,8 +1463,8 @@ def generate_scenario_recommendations(df_pred, price_change_fraction, group_by, 
     """
     # Group-level analysis
     group_analysis = df_pred.groupBy(group_by).agg(
-        F.avg("sales_lift_percentage").alias("avg_sales_lift_pct"),
-        F.avg("revenue_lift_percentage").alias("avg_revenue_lift_pct"),
+        F.avg("sales_lift_percentage").alias("avg_sales_lift"),
+        F.avg("revenue_lift_percentage").alias("avg_revenue_lift"),
         F.avg("predicted_baseline").alias("avg_baseline_sales"),
         F.avg("predicted_modified").alias("avg_modified_sales"),
         F.avg("price").alias("avg_current_price"),
@@ -1460,8 +1475,8 @@ def generate_scenario_recommendations(df_pred, price_change_fraction, group_by, 
     
     for row in group_analysis.collect():
         group_name = row[group_by]
-        sales_lift = float(row["avg_sales_lift_pct"]) if row["avg_sales_lift_pct"] else 0.0
-        revenue_lift = float(row["avg_revenue_lift_pct"]) if row["avg_revenue_lift_pct"] else 0.0
+        sales_lift = float(row["avg_sales_lift"]) if row["avg_sales_lift"] else 0.0
+        revenue_lift = float(row["avg_revenue_lift"]) if row["avg_revenue_lift"] else 0.0
         sample_size = int(row["sample_size"])
         
         # Determine recommendation based on both sales and revenue impact

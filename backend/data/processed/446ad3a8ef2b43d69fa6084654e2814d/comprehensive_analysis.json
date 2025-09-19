@@ -18599,61 +18599,37 @@
           }
         ],
         "insights": {
-          "Cosrx": {
-            "sales_lift_percent": 1.51,
-            "price_difference": -236.85,
-            "rating_difference": 0.121,
-            "promo_effectiveness": "low",
-            "market_share_promo": 37.3,
-            "recommendation": "Cosrx: Average performance, monitor and adjust"
+          "H&M": {
+            "sales_lift_percent": 12.93,
+            "price_difference": -249.61,
+            "rating_difference": 0.359,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 27.3,
+            "recommendation": "H&M: Good promo response, optimize pricing strategy"
           },
-          "Maybelline": {
-            "sales_lift_percent": 17.06,
-            "price_difference": -225.82,
-            "rating_difference": -0.198,
+          "Benton": {
+            "sales_lift_percent": 21.01,
+            "price_difference": -240.24,
+            "rating_difference": -0.075,
             "promo_effectiveness": "high",
-            "market_share_promo": 34.6,
-            "recommendation": "Maybelline: Good promo response, optimize pricing strategy"
+            "market_share_promo": 25.3,
+            "recommendation": "Benton: Good promo response, optimize pricing strategy"
           },
-          "Urban Decay": {
-            "sales_lift_percent": -6.83,
-            "price_difference": -250.1,
-            "rating_difference": 0.179,
-            "promo_effectiveness": "low",
-            "market_share_promo": 24.4,
-            "recommendation": "Urban Decay: Poor promo performance, review strategy"
+          "MAC Cosmetics": {
+            "sales_lift_percent": 11.85,
+            "price_difference": -225.7,
+            "rating_difference": 0.12,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 29.4,
+            "recommendation": "MAC Cosmetics: Good promo response, optimize pricing strategy"
           },
-          "Huggies": {
-            "sales_lift_percent": 15.81,
-            "price_difference": -267.44,
-            "rating_difference": 0.545,
-            "promo_effectiveness": "high",
-            "market_share_promo": 28.4,
-            "recommendation": "Huggies: Good promo response, optimize pricing strategy"
-          },
-          "Dr. Jart+": {
-            "sales_lift_percent": -1.72,
-            "price_difference": -256.85,
-            "rating_difference": 0.38,
-            "promo_effectiveness": "low",
-            "market_share_promo": 35.0,
-            "recommendation": "Dr. Jart+: Poor promo performance, review strategy"
-          },
-          "Uniqlo": {
-            "sales_lift_percent": 17.98,
-            "price_difference": -237.26,
-            "rating_difference": 0.448,
-            "promo_effectiveness": "high",
-            "market_share_promo": 31.4,
-            "recommendation": "Uniqlo: Good promo response, optimize pricing strategy"
-          },
-          "Nivea": {
-            "sales_lift_percent": 30.62,
-            "price_difference": -234.28,
-            "rating_difference": -0.384,
-            "promo_effectiveness": "high",
-            "market_share_promo": 28.6,
-            "recommendation": "Nivea: Good promo response, optimize pricing strategy"
+          "CeraVe": {
+            "sales_lift_percent": 6.0,
+            "price_difference": -243.29,
+            "rating_difference": -0.217,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 36.8,
+            "recommendation": "CeraVe: Average performance, monitor and adjust"
           },
           "Nivea Men": {
             "sales_lift_percent": 15.16,
@@ -18663,6 +18639,158 @@
             "market_share_promo": 32.7,
             "recommendation": "Nivea Men: Good promo response, optimize pricing strategy"
           },
+          "Coty": {
+            "sales_lift_percent": 14.1,
+            "price_difference": -234.03,
+            "rating_difference": 0.031,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 36.1,
+            "recommendation": "Coty: Good promo response, optimize pricing strategy"
+          },
+          "Tarte Cosmetics": {
+            "sales_lift_percent": 35.26,
+            "price_difference": -237.16,
+            "rating_difference": -0.157,
+            "promo_effectiveness": "high",
+            "market_share_promo": 38.6,
+            "recommendation": "Tarte Cosmetics: Good promo response, optimize pricing strategy"
+          },
+          "Chanel": {
+            "sales_lift_percent": 4.74,
+            "price_difference": -231.8,
+            "rating_difference": -0.653,
+            "promo_effectiveness": "low",
+            "market_share_promo": 36.1,
+            "recommendation": "Chanel: Average performance, monitor and adjust"
+          },
+          "Dove Body Wash": {
+            "sales_lift_percent": 28.85,
+            "price_difference": -244.1,
+            "rating_difference": 0.47,
+            "promo_effectiveness": "high",
+            "market_share_promo": 24.4,
+            "recommendation": "Dove Body Wash: Excellent promo performance, expand program"
+          },
+          "Etude House": {
+            "sales_lift_percent": -0.48,
+            "price_difference": -242.44,
+            "rating_difference": 0.362,
+            "promo_effectiveness": "low",
+            "market_share_promo": 48.2,
+            "recommendation": "Etude House: Poor promo performance, review strategy"
+          },
+          "Head & Shoulders": {
+            "sales_lift_percent": 18.16,
+            "price_difference": -238.85,
+            "rating_difference": -0.208,
+            "promo_effectiveness": "high",
+            "market_share_promo": 30.0,
+            "recommendation": "Head & Shoulders: Good promo response, optimize pricing strategy"
+          },
+          "Shu Uemura": {
+            "sales_lift_percent": 37.77,
+            "price_difference": -227.78,
+            "rating_difference": -0.025,
+            "promo_effectiveness": "high",
+            "market_share_promo": 26.5,
+            "recommendation": "Shu Uemura: Good promo response, optimize pricing strategy"
+          },
+          "P&G": {
+            "sales_lift_percent": -10.83,
+            "price_difference": -284.37,
+            "rating_difference": 0.06,
+            "promo_effectiveness": "low",
+            "market_share_promo": 38.0,
+            "recommendation": "P&G: Poor promo performance, review strategy"
+          },
+          "Pampers": {
+            "sales_lift_percent": 1.28,
+            "price_difference": -273.44,
+            "rating_difference": 0.345,
+            "promo_effectiveness": "low",
+            "market_share_promo": 34.3,
+            "recommendation": "Pampers: Average performance, monitor and adjust"
+          },
+          "Dell": {
+            "sales_lift_percent": 36.75,
+            "price_difference": -238.42,
+            "rating_difference": -0.026,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.6,
+            "recommendation": "Dell: Good promo response, optimize pricing strategy"
+          },
+          "Samsung": {
+            "sales_lift_percent": 25.0,
+            "price_difference": -247.33,
+            "rating_difference": -0.017,
+            "promo_effectiveness": "high",
+            "market_share_promo": 25.6,
+            "recommendation": "Samsung: Good promo response, optimize pricing strategy"
+          },
+          "Althea": {
+            "sales_lift_percent": 1.65,
+            "price_difference": -236.18,
+            "rating_difference": -0.352,
+            "promo_effectiveness": "low",
+            "market_share_promo": 35.9,
+            "recommendation": "Althea: Average performance, monitor and adjust"
+          },
+          "Olay Regenerist": {
+            "sales_lift_percent": 13.67,
+            "price_difference": -257.76,
+            "rating_difference": -0.247,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 43.5,
+            "recommendation": "Olay Regenerist: Good promo response, optimize pricing strategy"
+          },
+          "Almay": {
+            "sales_lift_percent": 59.54,
+            "price_difference": -214.25,
+            "rating_difference": 0.116,
+            "promo_effectiveness": "high",
+            "market_share_promo": 32.1,
+            "recommendation": "Almay: Excellent promo performance, expand program"
+          },
+          "LG": {
+            "sales_lift_percent": 10.6,
+            "price_difference": -244.58,
+            "rating_difference": -0.056,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 34.5,
+            "recommendation": "LG: Good promo response, optimize pricing strategy"
+          },
+          "Physiogel": {
+            "sales_lift_percent": 13.45,
+            "price_difference": -228.83,
+            "rating_difference": 0.23,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 32.7,
+            "recommendation": "Physiogel: Good promo response, optimize pricing strategy"
+          },
+          "SNAILWHITE": {
+            "sales_lift_percent": 17.58,
+            "price_difference": -252.42,
+            "rating_difference": 0.239,
+            "promo_effectiveness": "high",
+            "market_share_promo": 40.3,
+            "recommendation": "SNAILWHITE: Good promo response, optimize pricing strategy"
+          },
+          "Himalaya": {
+            "sales_lift_percent": -0.86,
+            "price_difference": -243.83,
+            "rating_difference": -0.111,
+            "promo_effectiveness": "low",
+            "market_share_promo": 23.6,
+            "recommendation": "Himalaya: Poor promo performance, review strategy"
+          },
+          "The Ordinary": {
+            "sales_lift_percent": 9.45,
+            "price_difference": -221.17,
+            "rating_difference": -0.279,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 41.2,
+            "recommendation": "The Ordinary: Average performance, monitor and adjust"
+          },
           "Yves Rocher": {
             "sales_lift_percent": -3.94,
             "price_difference": -254.16,
@@ -18671,133 +18799,85 @@
             "market_share_promo": 34.5,
             "recommendation": "Yves Rocher: Poor promo performance, review strategy"
           },
-          "Sony": {
-            "sales_lift_percent": 19.41,
-            "price_difference": -241.51,
-            "rating_difference": 0.032,
-            "promo_effectiveness": "high",
-            "market_share_promo": 38.4,
-            "recommendation": "Sony: Good promo response, optimize pricing strategy"
-          },
-          "TRESemmé": {
-            "sales_lift_percent": -1.9,
-            "price_difference": -222.1,
-            "rating_difference": 0.237,
+          "Muji": {
+            "sales_lift_percent": -2.66,
+            "price_difference": -241.68,
+            "rating_difference": 0.234,
             "promo_effectiveness": "low",
-            "market_share_promo": 29.5,
-            "recommendation": "TRESemmé: Poor promo performance, review strategy"
+            "market_share_promo": 30.3,
+            "recommendation": "Muji: Poor promo performance, review strategy"
           },
-          "Pond's": {
-            "sales_lift_percent": 10.23,
-            "price_difference": -228.21,
-            "rating_difference": -0.15,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 27.3,
-            "recommendation": "Pond's: Good promo response, optimize pricing strategy"
-          },
-          "Glade": {
-            "sales_lift_percent": -21.98,
-            "price_difference": -244.18,
-            "rating_difference": -0.3,
-            "promo_effectiveness": "low",
-            "market_share_promo": 26.0,
-            "recommendation": "Glade: Poor promo performance, review strategy"
-          },
-          "TIGI": {
-            "sales_lift_percent": 16.44,
-            "price_difference": -235.9,
-            "rating_difference": 0.372,
+          "Missha": {
+            "sales_lift_percent": 51.68,
+            "price_difference": -233.92,
+            "rating_difference": 0.252,
             "promo_effectiveness": "high",
             "market_share_promo": 32.1,
-            "recommendation": "TIGI: Good promo response, optimize pricing strategy"
+            "recommendation": "Missha: Excellent promo performance, expand program"
           },
-          "Paula's Choice": {
-            "sales_lift_percent": 4.5,
-            "price_difference": -221.99,
-            "rating_difference": -0.256,
-            "promo_effectiveness": "low",
-            "market_share_promo": 39.8,
-            "recommendation": "Paula's Choice: Average performance, monitor and adjust"
-          },
-          "Neutrogena": {
-            "sales_lift_percent": 11.07,
-            "price_difference": -231.6,
-            "rating_difference": -0.174,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 31.4,
-            "recommendation": "Neutrogena: Good promo response, optimize pricing strategy"
-          },
-          "The Body Shop": {
-            "sales_lift_percent": 13.61,
-            "price_difference": -232.48,
-            "rating_difference": 0.029,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 35.9,
-            "recommendation": "The Body Shop: Good promo response, optimize pricing strategy"
-          },
-          "Yves Saint Laurent": {
-            "sales_lift_percent": 9.24,
-            "price_difference": -226.76,
-            "rating_difference": 0.211,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 40.0,
-            "recommendation": "Yves Saint Laurent: Average performance, monitor and adjust"
-          },
-          "Anastasia Beverly Hills": {
-            "sales_lift_percent": 21.54,
-            "price_difference": -258.6,
-            "rating_difference": 0.287,
+          "Garnier SkinActive": {
+            "sales_lift_percent": 39.21,
+            "price_difference": -228.71,
+            "rating_difference": 0.053,
             "promo_effectiveness": "high",
             "market_share_promo": 26.0,
-            "recommendation": "Anastasia Beverly Hills: Excellent promo performance, expand program"
+            "recommendation": "Garnier SkinActive: Excellent promo performance, expand program"
           },
-          "Fa": {
-            "sales_lift_percent": 19.66,
-            "price_difference": -224.46,
-            "rating_difference": -0.587,
-            "promo_effectiveness": "high",
-            "market_share_promo": 19.7,
-            "recommendation": "Fa: Good promo response, optimize pricing strategy"
-          },
-          "L'Oreal Paris": {
-            "sales_lift_percent": 26.42,
-            "price_difference": -256.33,
-            "rating_difference": -0.353,
-            "promo_effectiveness": "high",
-            "market_share_promo": 38.7,
-            "recommendation": "L'Oreal Paris: Good promo response, optimize pricing strategy"
-          },
-          "Clinique": {
-            "sales_lift_percent": 0.77,
-            "price_difference": -244.65,
-            "rating_difference": 0.049,
+          "Urban Decay": {
+            "sales_lift_percent": -6.83,
+            "price_difference": -250.1,
+            "rating_difference": 0.179,
             "promo_effectiveness": "low",
-            "market_share_promo": 30.0,
-            "recommendation": "Clinique: Average performance, monitor and adjust"
+            "market_share_promo": 24.4,
+            "recommendation": "Urban Decay: Poor promo performance, review strategy"
           },
-          "Kraft": {
-            "sales_lift_percent": 4.64,
-            "price_difference": -249.45,
-            "rating_difference": 0.008,
-            "promo_effectiveness": "low",
-            "market_share_promo": 26.3,
-            "recommendation": "Kraft: Average performance, monitor and adjust"
-          },
-          "Burt's Bees": {
-            "sales_lift_percent": 43.48,
-            "price_difference": -217.82,
-            "rating_difference": -0.324,
-            "promo_effectiveness": "high",
-            "market_share_promo": 31.4,
-            "recommendation": "Burt's Bees: Good promo response, optimize pricing strategy"
-          },
-          "MAC Cosmetics": {
-            "sales_lift_percent": 11.85,
-            "price_difference": -225.7,
-            "rating_difference": 0.12,
+          "Revlon Colorstay": {
+            "sales_lift_percent": 13.06,
+            "price_difference": -241.64,
+            "rating_difference": -0.125,
             "promo_effectiveness": "medium",
-            "market_share_promo": 29.4,
-            "recommendation": "MAC Cosmetics: Good promo response, optimize pricing strategy"
+            "market_share_promo": 35.1,
+            "recommendation": "Revlon Colorstay: Good promo response, optimize pricing strategy"
+          },
+          "Sally Hansen": {
+            "sales_lift_percent": 33.65,
+            "price_difference": -228.29,
+            "rating_difference": -0.155,
+            "promo_effectiveness": "high",
+            "market_share_promo": 31.6,
+            "recommendation": "Sally Hansen: Good promo response, optimize pricing strategy"
+          },
+          "Clinique for Men": {
+            "sales_lift_percent": 8.01,
+            "price_difference": -250.72,
+            "rating_difference": 0.447,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 32.9,
+            "recommendation": "Clinique for Men: Average performance, monitor and adjust"
+          },
+          "Avène": {
+            "sales_lift_percent": 22.96,
+            "price_difference": -220.03,
+            "rating_difference": 0.297,
+            "promo_effectiveness": "high",
+            "market_share_promo": 37.0,
+            "recommendation": "Avène: Excellent promo performance, expand program"
+          },
+          "Apple": {
+            "sales_lift_percent": -6.46,
+            "price_difference": -238.0,
+            "rating_difference": 0.102,
+            "promo_effectiveness": "low",
+            "market_share_promo": 35.9,
+            "recommendation": "Apple: Poor promo performance, review strategy"
+          },
+          "Dr. Jart+": {
+            "sales_lift_percent": -1.72,
+            "price_difference": -256.85,
+            "rating_difference": 0.38,
+            "promo_effectiveness": "low",
+            "market_share_promo": 35.0,
+            "recommendation": "Dr. Jart+: Poor promo performance, review strategy"
           },
           "Vichy": {
             "sales_lift_percent": 28.0,
@@ -18815,413 +18895,21 @@
             "market_share_promo": 31.0,
             "recommendation": "L'Oréal: Average performance, monitor and adjust"
           },
-          "Olay Regenerist": {
-            "sales_lift_percent": 13.67,
-            "price_difference": -257.76,
-            "rating_difference": -0.247,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 43.5,
-            "recommendation": "Olay Regenerist: Good promo response, optimize pricing strategy"
-          },
-          "Huda Beauty": {
-            "sales_lift_percent": 46.28,
-            "price_difference": -240.81,
-            "rating_difference": -0.212,
+          "Zara": {
+            "sales_lift_percent": 32.83,
+            "price_difference": -218.71,
+            "rating_difference": 0.403,
             "promo_effectiveness": "high",
-            "market_share_promo": 34.1,
-            "recommendation": "Huda Beauty: Good promo response, optimize pricing strategy"
+            "market_share_promo": 24.7,
+            "recommendation": "Zara: Excellent promo performance, expand program"
           },
-          "Dove Purely Pampering": {
-            "sales_lift_percent": 21.16,
-            "price_difference": -263.73,
-            "rating_difference": 0.239,
+          "Fa": {
+            "sales_lift_percent": 19.66,
+            "price_difference": -224.46,
+            "rating_difference": -0.587,
             "promo_effectiveness": "high",
-            "market_share_promo": 30.1,
-            "recommendation": "Dove Purely Pampering: Excellent promo performance, expand program"
-          },
-          "Estée Lauder": {
-            "sales_lift_percent": 18.82,
-            "price_difference": -235.0,
-            "rating_difference": 0.269,
-            "promo_effectiveness": "high",
-            "market_share_promo": 34.8,
-            "recommendation": "Estée Lauder: Good promo response, optimize pricing strategy"
-          },
-          "LG": {
-            "sales_lift_percent": 10.6,
-            "price_difference": -244.58,
-            "rating_difference": -0.056,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 34.5,
-            "recommendation": "LG: Good promo response, optimize pricing strategy"
-          },
-          "Samsung": {
-            "sales_lift_percent": 25.0,
-            "price_difference": -247.33,
-            "rating_difference": -0.017,
-            "promo_effectiveness": "high",
-            "market_share_promo": 25.6,
-            "recommendation": "Samsung: Good promo response, optimize pricing strategy"
-          },
-          "SK-II": {
-            "sales_lift_percent": 16.75,
-            "price_difference": -258.62,
-            "rating_difference": -0.096,
-            "promo_effectiveness": "high",
-            "market_share_promo": 37.5,
-            "recommendation": "SK-II: Good promo response, optimize pricing strategy"
-          },
-          "Aveda": {
-            "sales_lift_percent": -8.68,
-            "price_difference": -226.19,
-            "rating_difference": 0.015,
-            "promo_effectiveness": "low",
-            "market_share_promo": 24.1,
-            "recommendation": "Aveda: Poor promo performance, review strategy"
-          },
-          "Benton": {
-            "sales_lift_percent": 21.01,
-            "price_difference": -240.24,
-            "rating_difference": -0.075,
-            "promo_effectiveness": "high",
-            "market_share_promo": 25.3,
-            "recommendation": "Benton: Good promo response, optimize pricing strategy"
-          },
-          "Kose": {
-            "sales_lift_percent": 7.49,
-            "price_difference": -247.3,
-            "rating_difference": -0.165,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 30.3,
-            "recommendation": "Kose: Average performance, monitor and adjust"
-          },
-          "Revlon": {
-            "sales_lift_percent": 9.0,
-            "price_difference": -229.84,
-            "rating_difference": 0.209,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 29.9,
-            "recommendation": "Revlon: Average performance, monitor and adjust"
-          },
-          "Dove Body Wash": {
-            "sales_lift_percent": 28.85,
-            "price_difference": -244.1,
-            "rating_difference": 0.47,
-            "promo_effectiveness": "high",
-            "market_share_promo": 24.4,
-            "recommendation": "Dove Body Wash: Excellent promo performance, expand program"
-          },
-          "Make Up For Ever": {
-            "sales_lift_percent": 26.03,
-            "price_difference": -243.35,
-            "rating_difference": -0.248,
-            "promo_effectiveness": "high",
-            "market_share_promo": 28.0,
-            "recommendation": "Make Up For Ever: Good promo response, optimize pricing strategy"
-          },
-          "Nike": {
-            "sales_lift_percent": 33.69,
-            "price_difference": -226.33,
-            "rating_difference": -0.224,
-            "promo_effectiveness": "high",
-            "market_share_promo": 34.2,
-            "recommendation": "Nike: Good promo response, optimize pricing strategy"
-          },
-          "O.P.I.": {
-            "sales_lift_percent": 35.54,
-            "price_difference": -243.11,
-            "rating_difference": -0.234,
-            "promo_effectiveness": "high",
-            "market_share_promo": 28.2,
-            "recommendation": "O.P.I.: Good promo response, optimize pricing strategy"
-          },
-          "Avène": {
-            "sales_lift_percent": 22.96,
-            "price_difference": -220.03,
-            "rating_difference": 0.297,
-            "promo_effectiveness": "high",
-            "market_share_promo": 37.0,
-            "recommendation": "Avène: Excellent promo performance, expand program"
-          },
-          "Dell": {
-            "sales_lift_percent": 36.75,
-            "price_difference": -238.42,
-            "rating_difference": -0.026,
-            "promo_effectiveness": "high",
-            "market_share_promo": 34.6,
-            "recommendation": "Dell: Good promo response, optimize pricing strategy"
-          },
-          "SNAILWHITE": {
-            "sales_lift_percent": 17.58,
-            "price_difference": -252.42,
-            "rating_difference": 0.239,
-            "promo_effectiveness": "high",
-            "market_share_promo": 40.3,
-            "recommendation": "SNAILWHITE: Good promo response, optimize pricing strategy"
-          },
-          "Aveeno": {
-            "sales_lift_percent": 3.16,
-            "price_difference": -244.88,
-            "rating_difference": -0.284,
-            "promo_effectiveness": "low",
-            "market_share_promo": 32.6,
-            "recommendation": "Aveeno: Average performance, monitor and adjust"
-          },
-          "Hada Labo": {
-            "sales_lift_percent": 29.67,
-            "price_difference": -248.81,
-            "rating_difference": 0.129,
-            "promo_effectiveness": "high",
-            "market_share_promo": 34.8,
-            "recommendation": "Hada Labo: Excellent promo performance, expand program"
-          },
-          "Bioré": {
-            "sales_lift_percent": 16.49,
-            "price_difference": -249.36,
-            "rating_difference": 0.067,
-            "promo_effectiveness": "high",
-            "market_share_promo": 33.0,
-            "recommendation": "Bioré: Good promo response, optimize pricing strategy"
-          },
-          "Althea": {
-            "sales_lift_percent": 1.65,
-            "price_difference": -236.18,
-            "rating_difference": -0.352,
-            "promo_effectiveness": "low",
-            "market_share_promo": 35.9,
-            "recommendation": "Althea: Average performance, monitor and adjust"
-          },
-          "Etude House": {
-            "sales_lift_percent": -0.48,
-            "price_difference": -242.44,
-            "rating_difference": 0.362,
-            "promo_effectiveness": "low",
-            "market_share_promo": 48.2,
-            "recommendation": "Etude House: Poor promo performance, review strategy"
-          },
-          "Tony Moly": {
-            "sales_lift_percent": -2.68,
-            "price_difference": -239.56,
-            "rating_difference": -0.066,
-            "promo_effectiveness": "low",
-            "market_share_promo": 30.4,
-            "recommendation": "Tony Moly: Poor promo performance, review strategy"
-          },
-          "Dior": {
-            "sales_lift_percent": 24.18,
-            "price_difference": -226.36,
-            "rating_difference": -0.147,
-            "promo_effectiveness": "high",
-            "market_share_promo": 35.8,
-            "recommendation": "Dior: Good promo response, optimize pricing strategy"
-          },
-          "Tatcha": {
-            "sales_lift_percent": 28.8,
-            "price_difference": -223.03,
-            "rating_difference": 0.124,
-            "promo_effectiveness": "high",
-            "market_share_promo": 28.0,
-            "recommendation": "Tatcha: Excellent promo performance, expand program"
-          },
-          "Almay": {
-            "sales_lift_percent": 59.54,
-            "price_difference": -214.25,
-            "rating_difference": 0.116,
-            "promo_effectiveness": "high",
-            "market_share_promo": 32.1,
-            "recommendation": "Almay: Excellent promo performance, expand program"
-          },
-          "L'Oréal Professionnel": {
-            "sales_lift_percent": 12.11,
-            "price_difference": -214.87,
-            "rating_difference": -0.077,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 22.0,
-            "recommendation": "L'Oréal Professionnel: Good promo response, optimize pricing strategy"
-          },
-          "Biore": {
-            "sales_lift_percent": 31.76,
-            "price_difference": -238.09,
-            "rating_difference": 0.247,
-            "promo_effectiveness": "high",
-            "market_share_promo": 34.2,
-            "recommendation": "Biore: Excellent promo performance, expand program"
-          },
-          "Eucerin": {
-            "sales_lift_percent": 22.15,
-            "price_difference": -235.07,
-            "rating_difference": -0.398,
-            "promo_effectiveness": "high",
-            "market_share_promo": 32.2,
-            "recommendation": "Eucerin: Good promo response, optimize pricing strategy"
-          },
-          "Shu Uemura": {
-            "sales_lift_percent": 37.77,
-            "price_difference": -227.78,
-            "rating_difference": -0.025,
-            "promo_effectiveness": "high",
-            "market_share_promo": 26.5,
-            "recommendation": "Shu Uemura: Good promo response, optimize pricing strategy"
-          },
-          "Dove Men+Care": {
-            "sales_lift_percent": -0.58,
-            "price_difference": -241.88,
-            "rating_difference": -0.325,
-            "promo_effectiveness": "low",
-            "market_share_promo": 38.6,
-            "recommendation": "Dove Men+Care: Poor promo performance, review strategy"
-          },
-          "SkinCeuticals": {
-            "sales_lift_percent": 24.52,
-            "price_difference": -224.32,
-            "rating_difference": -0.003,
-            "promo_effectiveness": "high",
-            "market_share_promo": 28.4,
-            "recommendation": "SkinCeuticals: Good promo response, optimize pricing strategy"
-          },
-          "Bobbi Brown": {
-            "sales_lift_percent": 21.29,
-            "price_difference": -238.99,
-            "rating_difference": 0.079,
-            "promo_effectiveness": "high",
-            "market_share_promo": 26.0,
-            "recommendation": "Bobbi Brown: Excellent promo performance, expand program"
-          },
-          "H&M": {
-            "sales_lift_percent": 12.93,
-            "price_difference": -249.61,
-            "rating_difference": 0.359,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 27.3,
-            "recommendation": "H&M: Good promo response, optimize pricing strategy"
-          },
-          "Dove": {
-            "sales_lift_percent": 16.07,
-            "price_difference": -240.36,
-            "rating_difference": 0.004,
-            "promo_effectiveness": "high",
-            "market_share_promo": 33.1,
-            "recommendation": "Dove: Good promo response, optimize pricing strategy"
-          },
-          "Freeman": {
-            "sales_lift_percent": 29.75,
-            "price_difference": -240.68,
-            "rating_difference": -0.577,
-            "promo_effectiveness": "high",
-            "market_share_promo": 38.4,
-            "recommendation": "Freeman: Good promo response, optimize pricing strategy"
-          },
-          "Clinique for Men": {
-            "sales_lift_percent": 8.01,
-            "price_difference": -250.72,
-            "rating_difference": 0.447,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 32.9,
-            "recommendation": "Clinique for Men: Average performance, monitor and adjust"
-          },
-          "Pampers": {
-            "sales_lift_percent": 1.28,
-            "price_difference": -273.44,
-            "rating_difference": 0.345,
-            "promo_effectiveness": "low",
-            "market_share_promo": 34.3,
-            "recommendation": "Pampers: Average performance, monitor and adjust"
-          },
-          "Garnier": {
-            "sales_lift_percent": 20.97,
-            "price_difference": -253.95,
-            "rating_difference": 0.228,
-            "promo_effectiveness": "high",
-            "market_share_promo": 51.3,
-            "recommendation": "Garnier: Excellent promo performance, expand program"
-          },
-          "Fanta": {
-            "sales_lift_percent": 44.92,
-            "price_difference": -216.97,
-            "rating_difference": 0.181,
-            "promo_effectiveness": "high",
-            "market_share_promo": 30.3,
-            "recommendation": "Fanta: Excellent promo performance, expand program"
-          },
-          "Benefit Cosmetics": {
-            "sales_lift_percent": -0.93,
-            "price_difference": -243.76,
-            "rating_difference": -0.395,
-            "promo_effectiveness": "low",
-            "market_share_promo": 41.5,
-            "recommendation": "Benefit Cosmetics: Poor promo performance, review strategy"
-          },
-          "Olay": {
-            "sales_lift_percent": -8.5,
-            "price_difference": -240.8,
-            "rating_difference": -0.307,
-            "promo_effectiveness": "low",
-            "market_share_promo": 24.1,
-            "recommendation": "Olay: Poor promo performance, review strategy"
-          },
-          "Tarte Cosmetics": {
-            "sales_lift_percent": 35.26,
-            "price_difference": -237.16,
-            "rating_difference": -0.157,
-            "promo_effectiveness": "high",
-            "market_share_promo": 38.6,
-            "recommendation": "Tarte Cosmetics: Good promo response, optimize pricing strategy"
-          },
-          "Missha": {
-            "sales_lift_percent": 51.68,
-            "price_difference": -233.92,
-            "rating_difference": 0.252,
-            "promo_effectiveness": "high",
-            "market_share_promo": 32.1,
-            "recommendation": "Missha: Excellent promo performance, expand program"
-          },
-          "The Ordinary": {
-            "sales_lift_percent": 9.45,
-            "price_difference": -221.17,
-            "rating_difference": -0.279,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 41.2,
-            "recommendation": "The Ordinary: Average performance, monitor and adjust"
-          },
-          "Muji": {
-            "sales_lift_percent": -2.66,
-            "price_difference": -241.68,
-            "rating_difference": 0.234,
-            "promo_effectiveness": "low",
-            "market_share_promo": 30.3,
-            "recommendation": "Muji: Poor promo performance, review strategy"
-          },
-          "Physiogel": {
-            "sales_lift_percent": 13.45,
-            "price_difference": -228.83,
-            "rating_difference": 0.23,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 32.7,
-            "recommendation": "Physiogel: Good promo response, optimize pricing strategy"
-          },
-          "Apple": {
-            "sales_lift_percent": -6.46,
-            "price_difference": -238.0,
-            "rating_difference": 0.102,
-            "promo_effectiveness": "low",
-            "market_share_promo": 35.9,
-            "recommendation": "Apple: Poor promo performance, review strategy"
-          },
-          "L'Oreal Elvive": {
-            "sales_lift_percent": 5.93,
-            "price_difference": -230.62,
-            "rating_difference": -0.159,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 43.2,
-            "recommendation": "L'Oreal Elvive: Average performance, monitor and adjust"
-          },
-          "Colgate": {
-            "sales_lift_percent": 7.01,
-            "price_difference": -226.58,
-            "rating_difference": -0.3,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 35.2,
-            "recommendation": "Colgate: Average performance, monitor and adjust"
+            "market_share_promo": 19.7,
+            "recommendation": "Fa: Good promo response, optimize pricing strategy"
           },
           "Kiehl's": {
             "sales_lift_percent": 6.46,
@@ -19231,13 +18919,13 @@
             "market_share_promo": 35.4,
             "recommendation": "Kiehl's: Average performance, monitor and adjust"
           },
-          "Laneige": {
-            "sales_lift_percent": 6.13,
-            "price_difference": -252.4,
-            "rating_difference": 0.294,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 34.8,
-            "recommendation": "Laneige: Average performance, monitor and adjust"
+          "Coca-Cola": {
+            "sales_lift_percent": 15.13,
+            "price_difference": -245.61,
+            "rating_difference": 0.287,
+            "promo_effectiveness": "high",
+            "market_share_promo": 29.9,
+            "recommendation": "Coca-Cola: Good promo response, optimize pricing strategy"
           },
           "Farsali": {
             "sales_lift_percent": 28.84,
@@ -19247,213 +18935,13 @@
             "market_share_promo": 37.8,
             "recommendation": "Farsali: Excellent promo performance, expand program"
           },
-          "Axe": {
-            "sales_lift_percent": -15.19,
-            "price_difference": -232.93,
-            "rating_difference": -0.161,
-            "promo_effectiveness": "low",
-            "market_share_promo": 19.8,
-            "recommendation": "Axe: Poor promo performance, review strategy"
-          },
-          "Essie": {
-            "sales_lift_percent": 21.12,
-            "price_difference": -209.25,
-            "rating_difference": 0.269,
-            "promo_effectiveness": "high",
-            "market_share_promo": 40.5,
-            "recommendation": "Essie: Excellent promo performance, expand program"
-          },
-          "Simple": {
-            "sales_lift_percent": 9.39,
-            "price_difference": -231.27,
-            "rating_difference": -0.136,
+          "L'Oreal Elvive": {
+            "sales_lift_percent": 5.93,
+            "price_difference": -230.62,
+            "rating_difference": -0.159,
             "promo_effectiveness": "medium",
-            "market_share_promo": 28.6,
-            "recommendation": "Simple: Average performance, monitor and adjust"
-          },
-          "The Body Shop Tea Tree": {
-            "sales_lift_percent": 20.01,
-            "price_difference": -200.43,
-            "rating_difference": -0.267,
-            "promo_effectiveness": "high",
-            "market_share_promo": 35.2,
-            "recommendation": "The Body Shop Tea Tree: Good promo response, optimize pricing strategy"
-          },
-          "Coca-Cola": {
-            "sales_lift_percent": 15.13,
-            "price_difference": -245.61,
-            "rating_difference": 0.287,
-            "promo_effectiveness": "high",
-            "market_share_promo": 29.9,
-            "recommendation": "Coca-Cola: Good promo response, optimize pricing strategy"
-          },
-          "Adidas": {
-            "sales_lift_percent": 24.48,
-            "price_difference": -237.54,
-            "rating_difference": -0.301,
-            "promo_effectiveness": "high",
-            "market_share_promo": 22.6,
-            "recommendation": "Adidas: Good promo response, optimize pricing strategy"
-          },
-          "L'Occitane": {
-            "sales_lift_percent": 22.58,
-            "price_difference": -243.71,
-            "rating_difference": -0.079,
-            "promo_effectiveness": "high",
-            "market_share_promo": 23.9,
-            "recommendation": "L'Occitane: Good promo response, optimize pricing strategy"
-          },
-          "Nestle": {
-            "sales_lift_percent": 0.08,
-            "price_difference": -245.37,
-            "rating_difference": -0.057,
-            "promo_effectiveness": "low",
-            "market_share_promo": 32.8,
-            "recommendation": "Nestle: Average performance, monitor and adjust"
-          },
-          "Shiseido": {
-            "sales_lift_percent": 18.99,
-            "price_difference": -243.06,
-            "rating_difference": -0.214,
-            "promo_effectiveness": "high",
-            "market_share_promo": 39.8,
-            "recommendation": "Shiseido: Good promo response, optimize pricing strategy"
-          },
-          "The Inkey List": {
-            "sales_lift_percent": 7.99,
-            "price_difference": -243.33,
-            "rating_difference": 0.155,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 34.1,
-            "recommendation": "The Inkey List: Average performance, monitor and adjust"
-          },
-          "Lancôme": {
-            "sales_lift_percent": -1.15,
-            "price_difference": -259.53,
-            "rating_difference": 0.113,
-            "promo_effectiveness": "low",
-            "market_share_promo": 36.5,
-            "recommendation": "Lancôme: Poor promo performance, review strategy"
-          },
-          "Sally Hansen": {
-            "sales_lift_percent": 33.65,
-            "price_difference": -228.29,
-            "rating_difference": -0.155,
-            "promo_effectiveness": "high",
-            "market_share_promo": 31.6,
-            "recommendation": "Sally Hansen: Good promo response, optimize pricing strategy"
-          },
-          "Head & Shoulders": {
-            "sales_lift_percent": 18.16,
-            "price_difference": -238.85,
-            "rating_difference": -0.208,
-            "promo_effectiveness": "high",
-            "market_share_promo": 30.0,
-            "recommendation": "Head & Shoulders: Good promo response, optimize pricing strategy"
-          },
-          "Smashbox": {
-            "sales_lift_percent": 2.53,
-            "price_difference": -231.76,
-            "rating_difference": 0.571,
-            "promo_effectiveness": "low",
-            "market_share_promo": 33.3,
-            "recommendation": "Smashbox: Average performance, monitor and adjust"
-          },
-          "P&G": {
-            "sales_lift_percent": -10.83,
-            "price_difference": -284.37,
-            "rating_difference": 0.06,
-            "promo_effectiveness": "low",
-            "market_share_promo": 38.0,
-            "recommendation": "P&G: Poor promo performance, review strategy"
-          },
-          "Chanel": {
-            "sales_lift_percent": 4.74,
-            "price_difference": -231.8,
-            "rating_difference": -0.653,
-            "promo_effectiveness": "low",
-            "market_share_promo": 36.1,
-            "recommendation": "Chanel: Average performance, monitor and adjust"
-          },
-          "Garnier Fructis": {
-            "sales_lift_percent": 26.51,
-            "price_difference": -231.45,
-            "rating_difference": 0.299,
-            "promo_effectiveness": "high",
-            "market_share_promo": 36.2,
-            "recommendation": "Garnier Fructis: Excellent promo performance, expand program"
-          },
-          "Zara": {
-            "sales_lift_percent": 32.83,
-            "price_difference": -218.71,
-            "rating_difference": 0.403,
-            "promo_effectiveness": "high",
-            "market_share_promo": 24.7,
-            "recommendation": "Zara: Excellent promo performance, expand program"
-          },
-          "NARS": {
-            "sales_lift_percent": 12.76,
-            "price_difference": -239.68,
-            "rating_difference": -0.178,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 33.3,
-            "recommendation": "NARS: Good promo response, optimize pricing strategy"
-          },
-          "Mason Jar": {
-            "sales_lift_percent": 3.16,
-            "price_difference": -248.24,
-            "rating_difference": -0.171,
-            "promo_effectiveness": "low",
-            "market_share_promo": 25.7,
-            "recommendation": "Mason Jar: Average performance, monitor and adjust"
-          },
-          "CeraVe": {
-            "sales_lift_percent": 6.0,
-            "price_difference": -243.29,
-            "rating_difference": -0.217,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 36.8,
-            "recommendation": "CeraVe: Average performance, monitor and adjust"
-          },
-          "Clarins": {
-            "sales_lift_percent": 16.12,
-            "price_difference": -233.14,
-            "rating_difference": -0.29,
-            "promo_effectiveness": "high",
-            "market_share_promo": 34.2,
-            "recommendation": "Clarins: Good promo response, optimize pricing strategy"
-          },
-          "Garnier SkinActive": {
-            "sales_lift_percent": 39.21,
-            "price_difference": -228.71,
-            "rating_difference": 0.053,
-            "promo_effectiveness": "high",
-            "market_share_promo": 26.0,
-            "recommendation": "Garnier SkinActive: Excellent promo performance, expand program"
-          },
-          "Himalaya": {
-            "sales_lift_percent": -0.86,
-            "price_difference": -243.83,
-            "rating_difference": -0.111,
-            "promo_effectiveness": "low",
-            "market_share_promo": 23.6,
-            "recommendation": "Himalaya: Poor promo performance, review strategy"
-          },
-          "Jojoba Oil": {
-            "sales_lift_percent": -19.32,
-            "price_difference": -237.61,
-            "rating_difference": -0.361,
-            "promo_effectiveness": "low",
-            "market_share_promo": 32.9,
-            "recommendation": "Jojoba Oil: Poor promo performance, review strategy"
-          },
-          "Coty": {
-            "sales_lift_percent": 14.1,
-            "price_difference": -234.03,
-            "rating_difference": 0.031,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 36.1,
-            "recommendation": "Coty: Good promo response, optimize pricing strategy"
+            "market_share_promo": 43.2,
+            "recommendation": "L'Oreal Elvive: Average performance, monitor and adjust"
           },
           "Sunsilk": {
             "sales_lift_percent": 40.51,
@@ -19463,13 +18951,109 @@
             "market_share_promo": 40.5,
             "recommendation": "Sunsilk: Excellent promo performance, expand program"
           },
-          "Wella": {
-            "sales_lift_percent": 29.83,
-            "price_difference": -227.7,
-            "rating_difference": -0.273,
+          "L'Oréal Professionnel": {
+            "sales_lift_percent": 12.11,
+            "price_difference": -214.87,
+            "rating_difference": -0.077,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 22.0,
+            "recommendation": "L'Oréal Professionnel: Good promo response, optimize pricing strategy"
+          },
+          "Kraft": {
+            "sales_lift_percent": 4.64,
+            "price_difference": -249.45,
+            "rating_difference": 0.008,
+            "promo_effectiveness": "low",
+            "market_share_promo": 26.3,
+            "recommendation": "Kraft: Average performance, monitor and adjust"
+          },
+          "Tatcha": {
+            "sales_lift_percent": 28.8,
+            "price_difference": -223.03,
+            "rating_difference": 0.124,
             "promo_effectiveness": "high",
-            "market_share_promo": 27.9,
-            "recommendation": "Wella: Good promo response, optimize pricing strategy"
+            "market_share_promo": 28.0,
+            "recommendation": "Tatcha: Excellent promo performance, expand program"
+          },
+          "Pond's": {
+            "sales_lift_percent": 10.23,
+            "price_difference": -228.21,
+            "rating_difference": -0.15,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 27.3,
+            "recommendation": "Pond's: Good promo response, optimize pricing strategy"
+          },
+          "SK-II": {
+            "sales_lift_percent": 16.75,
+            "price_difference": -258.62,
+            "rating_difference": -0.096,
+            "promo_effectiveness": "high",
+            "market_share_promo": 37.5,
+            "recommendation": "SK-II: Good promo response, optimize pricing strategy"
+          },
+          "The Body Shop": {
+            "sales_lift_percent": 13.61,
+            "price_difference": -232.48,
+            "rating_difference": 0.029,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 35.9,
+            "recommendation": "The Body Shop: Good promo response, optimize pricing strategy"
+          },
+          "Tony Moly": {
+            "sales_lift_percent": -2.68,
+            "price_difference": -239.56,
+            "rating_difference": -0.066,
+            "promo_effectiveness": "low",
+            "market_share_promo": 30.4,
+            "recommendation": "Tony Moly: Poor promo performance, review strategy"
+          },
+          "Aveda": {
+            "sales_lift_percent": -8.68,
+            "price_difference": -226.19,
+            "rating_difference": 0.015,
+            "promo_effectiveness": "low",
+            "market_share_promo": 24.1,
+            "recommendation": "Aveda: Poor promo performance, review strategy"
+          },
+          "Nestle": {
+            "sales_lift_percent": 0.08,
+            "price_difference": -245.37,
+            "rating_difference": -0.057,
+            "promo_effectiveness": "low",
+            "market_share_promo": 32.8,
+            "recommendation": "Nestle: Average performance, monitor and adjust"
+          },
+          "Smashbox": {
+            "sales_lift_percent": 2.53,
+            "price_difference": -231.76,
+            "rating_difference": 0.571,
+            "promo_effectiveness": "low",
+            "market_share_promo": 33.3,
+            "recommendation": "Smashbox: Average performance, monitor and adjust"
+          },
+          "Laneige": {
+            "sales_lift_percent": 6.13,
+            "price_difference": -252.4,
+            "rating_difference": 0.294,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 34.8,
+            "recommendation": "Laneige: Average performance, monitor and adjust"
+          },
+          "Aveeno": {
+            "sales_lift_percent": 3.16,
+            "price_difference": -244.88,
+            "rating_difference": -0.284,
+            "promo_effectiveness": "low",
+            "market_share_promo": 32.6,
+            "recommendation": "Aveeno: Average performance, monitor and adjust"
+          },
+          "Cosrx": {
+            "sales_lift_percent": 1.51,
+            "price_difference": -236.85,
+            "rating_difference": 0.121,
+            "promo_effectiveness": "low",
+            "market_share_promo": 37.3,
+            "recommendation": "Cosrx: Average performance, monitor and adjust"
           },
           "Fenty Beauty": {
             "sales_lift_percent": 27.1,
@@ -19479,29 +19063,45 @@
             "market_share_promo": 27.9,
             "recommendation": "Fenty Beauty: Excellent promo performance, expand program"
           },
-          "Too Faced": {
-            "sales_lift_percent": 75.04,
-            "price_difference": -245.2,
-            "rating_difference": 0.272,
-            "promo_effectiveness": "high",
-            "market_share_promo": 22.2,
-            "recommendation": "Too Faced: Excellent promo performance, expand program"
+          "LANEIGE": {
+            "sales_lift_percent": 13.38,
+            "price_difference": -252.73,
+            "rating_difference": -0.027,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 34.2,
+            "recommendation": "LANEIGE: Good promo response, optimize pricing strategy"
           },
-          "Drunk Elephant": {
-            "sales_lift_percent": 2.09,
-            "price_difference": -259.51,
-            "rating_difference": 0.121,
-            "promo_effectiveness": "low",
+          "Uniqlo": {
+            "sales_lift_percent": 17.98,
+            "price_difference": -237.26,
+            "rating_difference": 0.448,
+            "promo_effectiveness": "high",
+            "market_share_promo": 31.4,
+            "recommendation": "Uniqlo: Good promo response, optimize pricing strategy"
+          },
+          "Fanta": {
+            "sales_lift_percent": 44.92,
+            "price_difference": -216.97,
+            "rating_difference": 0.181,
+            "promo_effectiveness": "high",
+            "market_share_promo": 30.3,
+            "recommendation": "Fanta: Excellent promo performance, expand program"
+          },
+          "Make Up For Ever": {
+            "sales_lift_percent": 26.03,
+            "price_difference": -243.35,
+            "rating_difference": -0.248,
+            "promo_effectiveness": "high",
             "market_share_promo": 28.0,
-            "recommendation": "Drunk Elephant: Average performance, monitor and adjust"
+            "recommendation": "Make Up For Ever: Good promo response, optimize pricing strategy"
           },
-          "Zalora": {
-            "sales_lift_percent": 18.05,
-            "price_difference": -249.24,
-            "rating_difference": 0.053,
+          "Anastasia Beverly Hills": {
+            "sales_lift_percent": 21.54,
+            "price_difference": -258.6,
+            "rating_difference": 0.287,
             "promo_effectiveness": "high",
-            "market_share_promo": 30.1,
-            "recommendation": "Zalora: Good promo response, optimize pricing strategy"
+            "market_share_promo": 26.0,
+            "recommendation": "Anastasia Beverly Hills: Excellent promo performance, expand program"
           },
           "Innisfree": {
             "sales_lift_percent": 0.79,
@@ -19511,21 +19111,421 @@
             "market_share_promo": 34.1,
             "recommendation": "Innisfree: Average performance, monitor and adjust"
           },
-          "LANEIGE": {
-            "sales_lift_percent": 13.38,
-            "price_difference": -252.73,
-            "rating_difference": -0.027,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 34.2,
-            "recommendation": "LANEIGE: Good promo response, optimize pricing strategy"
+          "Huda Beauty": {
+            "sales_lift_percent": 46.28,
+            "price_difference": -240.81,
+            "rating_difference": -0.212,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.1,
+            "recommendation": "Huda Beauty: Good promo response, optimize pricing strategy"
           },
-          "Revlon Colorstay": {
-            "sales_lift_percent": 13.06,
-            "price_difference": -241.64,
-            "rating_difference": -0.125,
+          "Neutrogena": {
+            "sales_lift_percent": 11.07,
+            "price_difference": -231.6,
+            "rating_difference": -0.174,
             "promo_effectiveness": "medium",
-            "market_share_promo": 35.1,
-            "recommendation": "Revlon Colorstay: Good promo response, optimize pricing strategy"
+            "market_share_promo": 31.4,
+            "recommendation": "Neutrogena: Good promo response, optimize pricing strategy"
+          },
+          "TIGI": {
+            "sales_lift_percent": 16.44,
+            "price_difference": -235.9,
+            "rating_difference": 0.372,
+            "promo_effectiveness": "high",
+            "market_share_promo": 32.1,
+            "recommendation": "TIGI: Good promo response, optimize pricing strategy"
+          },
+          "The Inkey List": {
+            "sales_lift_percent": 7.99,
+            "price_difference": -243.33,
+            "rating_difference": 0.155,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 34.1,
+            "recommendation": "The Inkey List: Average performance, monitor and adjust"
+          },
+          "Dove Men+Care": {
+            "sales_lift_percent": -0.58,
+            "price_difference": -241.88,
+            "rating_difference": -0.325,
+            "promo_effectiveness": "low",
+            "market_share_promo": 38.6,
+            "recommendation": "Dove Men+Care: Poor promo performance, review strategy"
+          },
+          "Eucerin": {
+            "sales_lift_percent": 22.15,
+            "price_difference": -235.07,
+            "rating_difference": -0.398,
+            "promo_effectiveness": "high",
+            "market_share_promo": 32.2,
+            "recommendation": "Eucerin: Good promo response, optimize pricing strategy"
+          },
+          "The Body Shop Tea Tree": {
+            "sales_lift_percent": 20.01,
+            "price_difference": -200.43,
+            "rating_difference": -0.267,
+            "promo_effectiveness": "high",
+            "market_share_promo": 35.2,
+            "recommendation": "The Body Shop Tea Tree: Good promo response, optimize pricing strategy"
+          },
+          "Wella": {
+            "sales_lift_percent": 29.83,
+            "price_difference": -227.7,
+            "rating_difference": -0.273,
+            "promo_effectiveness": "high",
+            "market_share_promo": 27.9,
+            "recommendation": "Wella: Good promo response, optimize pricing strategy"
+          },
+          "Huggies": {
+            "sales_lift_percent": 15.81,
+            "price_difference": -267.44,
+            "rating_difference": 0.545,
+            "promo_effectiveness": "high",
+            "market_share_promo": 28.4,
+            "recommendation": "Huggies: Good promo response, optimize pricing strategy"
+          },
+          "Mason Jar": {
+            "sales_lift_percent": 3.16,
+            "price_difference": -248.24,
+            "rating_difference": -0.171,
+            "promo_effectiveness": "low",
+            "market_share_promo": 25.7,
+            "recommendation": "Mason Jar: Average performance, monitor and adjust"
+          },
+          "Dove Purely Pampering": {
+            "sales_lift_percent": 21.16,
+            "price_difference": -263.73,
+            "rating_difference": 0.239,
+            "promo_effectiveness": "high",
+            "market_share_promo": 30.1,
+            "recommendation": "Dove Purely Pampering: Excellent promo performance, expand program"
+          },
+          "Axe": {
+            "sales_lift_percent": -15.19,
+            "price_difference": -232.93,
+            "rating_difference": -0.161,
+            "promo_effectiveness": "low",
+            "market_share_promo": 19.8,
+            "recommendation": "Axe: Poor promo performance, review strategy"
+          },
+          "SkinCeuticals": {
+            "sales_lift_percent": 24.52,
+            "price_difference": -224.32,
+            "rating_difference": -0.003,
+            "promo_effectiveness": "high",
+            "market_share_promo": 28.4,
+            "recommendation": "SkinCeuticals: Good promo response, optimize pricing strategy"
+          },
+          "Hada Labo": {
+            "sales_lift_percent": 29.67,
+            "price_difference": -248.81,
+            "rating_difference": 0.129,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.8,
+            "recommendation": "Hada Labo: Excellent promo performance, expand program"
+          },
+          "Jojoba Oil": {
+            "sales_lift_percent": -19.32,
+            "price_difference": -237.61,
+            "rating_difference": -0.361,
+            "promo_effectiveness": "low",
+            "market_share_promo": 32.9,
+            "recommendation": "Jojoba Oil: Poor promo performance, review strategy"
+          },
+          "Lancôme": {
+            "sales_lift_percent": -1.15,
+            "price_difference": -259.53,
+            "rating_difference": 0.113,
+            "promo_effectiveness": "low",
+            "market_share_promo": 36.5,
+            "recommendation": "Lancôme: Poor promo performance, review strategy"
+          },
+          "Drunk Elephant": {
+            "sales_lift_percent": 2.09,
+            "price_difference": -259.51,
+            "rating_difference": 0.121,
+            "promo_effectiveness": "low",
+            "market_share_promo": 28.0,
+            "recommendation": "Drunk Elephant: Average performance, monitor and adjust"
+          },
+          "Garnier": {
+            "sales_lift_percent": 20.97,
+            "price_difference": -253.95,
+            "rating_difference": 0.228,
+            "promo_effectiveness": "high",
+            "market_share_promo": 51.3,
+            "recommendation": "Garnier: Excellent promo performance, expand program"
+          },
+          "Kose": {
+            "sales_lift_percent": 7.49,
+            "price_difference": -247.3,
+            "rating_difference": -0.165,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 30.3,
+            "recommendation": "Kose: Average performance, monitor and adjust"
+          },
+          "Sony": {
+            "sales_lift_percent": 19.41,
+            "price_difference": -241.51,
+            "rating_difference": 0.032,
+            "promo_effectiveness": "high",
+            "market_share_promo": 38.4,
+            "recommendation": "Sony: Good promo response, optimize pricing strategy"
+          },
+          "Bobbi Brown": {
+            "sales_lift_percent": 21.29,
+            "price_difference": -238.99,
+            "rating_difference": 0.079,
+            "promo_effectiveness": "high",
+            "market_share_promo": 26.0,
+            "recommendation": "Bobbi Brown: Excellent promo performance, expand program"
+          },
+          "Essie": {
+            "sales_lift_percent": 21.12,
+            "price_difference": -209.25,
+            "rating_difference": 0.269,
+            "promo_effectiveness": "high",
+            "market_share_promo": 40.5,
+            "recommendation": "Essie: Excellent promo performance, expand program"
+          },
+          "Zalora": {
+            "sales_lift_percent": 18.05,
+            "price_difference": -249.24,
+            "rating_difference": 0.053,
+            "promo_effectiveness": "high",
+            "market_share_promo": 30.1,
+            "recommendation": "Zalora: Good promo response, optimize pricing strategy"
+          },
+          "Maybelline": {
+            "sales_lift_percent": 17.06,
+            "price_difference": -225.82,
+            "rating_difference": -0.198,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.6,
+            "recommendation": "Maybelline: Good promo response, optimize pricing strategy"
+          },
+          "Biore": {
+            "sales_lift_percent": 31.76,
+            "price_difference": -238.09,
+            "rating_difference": 0.247,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.2,
+            "recommendation": "Biore: Excellent promo performance, expand program"
+          },
+          "Bioré": {
+            "sales_lift_percent": 16.49,
+            "price_difference": -249.36,
+            "rating_difference": 0.067,
+            "promo_effectiveness": "high",
+            "market_share_promo": 33.0,
+            "recommendation": "Bioré: Good promo response, optimize pricing strategy"
+          },
+          "Garnier Fructis": {
+            "sales_lift_percent": 26.51,
+            "price_difference": -231.45,
+            "rating_difference": 0.299,
+            "promo_effectiveness": "high",
+            "market_share_promo": 36.2,
+            "recommendation": "Garnier Fructis: Excellent promo performance, expand program"
+          },
+          "O.P.I.": {
+            "sales_lift_percent": 35.54,
+            "price_difference": -243.11,
+            "rating_difference": -0.234,
+            "promo_effectiveness": "high",
+            "market_share_promo": 28.2,
+            "recommendation": "O.P.I.: Good promo response, optimize pricing strategy"
+          },
+          "TRESemmé": {
+            "sales_lift_percent": -1.9,
+            "price_difference": -222.1,
+            "rating_difference": 0.237,
+            "promo_effectiveness": "low",
+            "market_share_promo": 29.5,
+            "recommendation": "TRESemmé: Poor promo performance, review strategy"
+          },
+          "Dior": {
+            "sales_lift_percent": 24.18,
+            "price_difference": -226.36,
+            "rating_difference": -0.147,
+            "promo_effectiveness": "high",
+            "market_share_promo": 35.8,
+            "recommendation": "Dior: Good promo response, optimize pricing strategy"
+          },
+          "Glade": {
+            "sales_lift_percent": -21.98,
+            "price_difference": -244.18,
+            "rating_difference": -0.3,
+            "promo_effectiveness": "low",
+            "market_share_promo": 26.0,
+            "recommendation": "Glade: Poor promo performance, review strategy"
+          },
+          "Revlon": {
+            "sales_lift_percent": 9.0,
+            "price_difference": -229.84,
+            "rating_difference": 0.209,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 29.9,
+            "recommendation": "Revlon: Average performance, monitor and adjust"
+          },
+          "Adidas": {
+            "sales_lift_percent": 24.48,
+            "price_difference": -237.54,
+            "rating_difference": -0.301,
+            "promo_effectiveness": "high",
+            "market_share_promo": 22.6,
+            "recommendation": "Adidas: Good promo response, optimize pricing strategy"
+          },
+          "Benefit Cosmetics": {
+            "sales_lift_percent": -0.93,
+            "price_difference": -243.76,
+            "rating_difference": -0.395,
+            "promo_effectiveness": "low",
+            "market_share_promo": 41.5,
+            "recommendation": "Benefit Cosmetics: Poor promo performance, review strategy"
+          },
+          "NARS": {
+            "sales_lift_percent": 12.76,
+            "price_difference": -239.68,
+            "rating_difference": -0.178,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 33.3,
+            "recommendation": "NARS: Good promo response, optimize pricing strategy"
+          },
+          "Shiseido": {
+            "sales_lift_percent": 18.99,
+            "price_difference": -243.06,
+            "rating_difference": -0.214,
+            "promo_effectiveness": "high",
+            "market_share_promo": 39.8,
+            "recommendation": "Shiseido: Good promo response, optimize pricing strategy"
+          },
+          "Dove": {
+            "sales_lift_percent": 16.07,
+            "price_difference": -240.36,
+            "rating_difference": 0.004,
+            "promo_effectiveness": "high",
+            "market_share_promo": 33.1,
+            "recommendation": "Dove: Good promo response, optimize pricing strategy"
+          },
+          "Nivea": {
+            "sales_lift_percent": 30.62,
+            "price_difference": -234.28,
+            "rating_difference": -0.384,
+            "promo_effectiveness": "high",
+            "market_share_promo": 28.6,
+            "recommendation": "Nivea: Good promo response, optimize pricing strategy"
+          },
+          "L'Occitane": {
+            "sales_lift_percent": 22.58,
+            "price_difference": -243.71,
+            "rating_difference": -0.079,
+            "promo_effectiveness": "high",
+            "market_share_promo": 23.9,
+            "recommendation": "L'Occitane: Good promo response, optimize pricing strategy"
+          },
+          "Colgate": {
+            "sales_lift_percent": 7.01,
+            "price_difference": -226.58,
+            "rating_difference": -0.3,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 35.2,
+            "recommendation": "Colgate: Average performance, monitor and adjust"
+          },
+          "Yves Saint Laurent": {
+            "sales_lift_percent": 9.24,
+            "price_difference": -226.76,
+            "rating_difference": 0.211,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 40.0,
+            "recommendation": "Yves Saint Laurent: Average performance, monitor and adjust"
+          },
+          "Olay": {
+            "sales_lift_percent": -8.5,
+            "price_difference": -240.8,
+            "rating_difference": -0.307,
+            "promo_effectiveness": "low",
+            "market_share_promo": 24.1,
+            "recommendation": "Olay: Poor promo performance, review strategy"
+          },
+          "Clinique": {
+            "sales_lift_percent": 0.77,
+            "price_difference": -244.65,
+            "rating_difference": 0.049,
+            "promo_effectiveness": "low",
+            "market_share_promo": 30.0,
+            "recommendation": "Clinique: Average performance, monitor and adjust"
+          },
+          "Clarins": {
+            "sales_lift_percent": 16.12,
+            "price_difference": -233.14,
+            "rating_difference": -0.29,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.2,
+            "recommendation": "Clarins: Good promo response, optimize pricing strategy"
+          },
+          "Freeman": {
+            "sales_lift_percent": 29.75,
+            "price_difference": -240.68,
+            "rating_difference": -0.577,
+            "promo_effectiveness": "high",
+            "market_share_promo": 38.4,
+            "recommendation": "Freeman: Good promo response, optimize pricing strategy"
+          },
+          "Paula's Choice": {
+            "sales_lift_percent": 4.5,
+            "price_difference": -221.99,
+            "rating_difference": -0.256,
+            "promo_effectiveness": "low",
+            "market_share_promo": 39.8,
+            "recommendation": "Paula's Choice: Average performance, monitor and adjust"
+          },
+          "Burt's Bees": {
+            "sales_lift_percent": 43.48,
+            "price_difference": -217.82,
+            "rating_difference": -0.324,
+            "promo_effectiveness": "high",
+            "market_share_promo": 31.4,
+            "recommendation": "Burt's Bees: Good promo response, optimize pricing strategy"
+          },
+          "Estée Lauder": {
+            "sales_lift_percent": 18.82,
+            "price_difference": -235.0,
+            "rating_difference": 0.269,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.8,
+            "recommendation": "Estée Lauder: Good promo response, optimize pricing strategy"
+          },
+          "Too Faced": {
+            "sales_lift_percent": 75.04,
+            "price_difference": -245.2,
+            "rating_difference": 0.272,
+            "promo_effectiveness": "high",
+            "market_share_promo": 22.2,
+            "recommendation": "Too Faced: Excellent promo performance, expand program"
+          },
+          "Simple": {
+            "sales_lift_percent": 9.39,
+            "price_difference": -231.27,
+            "rating_difference": -0.136,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 28.6,
+            "recommendation": "Simple: Average performance, monitor and adjust"
+          },
+          "Nike": {
+            "sales_lift_percent": 33.69,
+            "price_difference": -226.33,
+            "rating_difference": -0.224,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.2,
+            "recommendation": "Nike: Good promo response, optimize pricing strategy"
+          },
+          "L'Oreal Paris": {
+            "sales_lift_percent": 26.42,
+            "price_difference": -256.33,
+            "rating_difference": -0.353,
+            "promo_effectiveness": "high",
+            "market_share_promo": 38.7,
+            "recommendation": "L'Oreal Paris: Good promo response, optimize pricing strategy"
           }
         }
       },
@@ -21387,286 +21387,6 @@
           }
         ],
         "insights": {
-          "Bảng phấn mắt": {
-            "sales_lift_percent": 39.08,
-            "price_difference": -240.71,
-            "rating_difference": -0.242,
-            "promo_effectiveness": "high",
-            "market_share_promo": 33.0,
-            "recommendation": "Bảng phấn mắt: Good promo response, optimize pricing strategy"
-          },
-          "Serum vitamin C": {
-            "sales_lift_percent": -6.34,
-            "price_difference": -245.22,
-            "rating_difference": 0.445,
-            "promo_effectiveness": "low",
-            "market_share_promo": 36.2,
-            "recommendation": "Serum vitamin C: Poor promo performance, review strategy"
-          },
-          "Mặt nạ ngủ": {
-            "sales_lift_percent": 0.94,
-            "price_difference": -227.96,
-            "rating_difference": -0.313,
-            "promo_effectiveness": "low",
-            "market_share_promo": 29.4,
-            "recommendation": "Mặt nạ ngủ: Average performance, monitor and adjust"
-          },
-          "Mỹ phẩm trang điểm": {
-            "sales_lift_percent": 21.82,
-            "price_difference": -218.87,
-            "rating_difference": 0.087,
-            "promo_effectiveness": "high",
-            "market_share_promo": 31.1,
-            "recommendation": "Mỹ phẩm trang điểm: Excellent promo performance, expand program"
-          },
-          "Máy tính xách tay": {
-            "sales_lift_percent": 16.25,
-            "price_difference": -221.99,
-            "rating_difference": -0.438,
-            "promo_effectiveness": "high",
-            "market_share_promo": 27.9,
-            "recommendation": "Máy tính xách tay: Good promo response, optimize pricing strategy"
-          },
-          "Thiết bị chiếu sáng": {
-            "sales_lift_percent": 15.48,
-            "price_difference": -258.76,
-            "rating_difference": 0.188,
-            "promo_effectiveness": "high",
-            "market_share_promo": 29.8,
-            "recommendation": "Thiết bị chiếu sáng: Good promo response, optimize pricing strategy"
-          },
-          "Thiết bị điện tử": {
-            "sales_lift_percent": 12.49,
-            "price_difference": -231.55,
-            "rating_difference": -0.099,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 32.2,
-            "recommendation": "Thiết bị điện tử: Good promo response, optimize pricing strategy"
-          },
-          "Đồ dùng học tập": {
-            "sales_lift_percent": 18.58,
-            "price_difference": -252.56,
-            "rating_difference": 0.134,
-            "promo_effectiveness": "high",
-            "market_share_promo": 34.3,
-            "recommendation": "Đồ dùng học tập: Good promo response, optimize pricing strategy"
-          },
-          "Gia dụng": {
-            "sales_lift_percent": 36.89,
-            "price_difference": -229.48,
-            "rating_difference": 0.149,
-            "promo_effectiveness": "high",
-            "market_share_promo": 33.0,
-            "recommendation": "Gia dụng: Excellent promo performance, expand program"
-          },
-          "Nội thất": {
-            "sales_lift_percent": 1.72,
-            "price_difference": -250.26,
-            "rating_difference": 0.044,
-            "promo_effectiveness": "low",
-            "market_share_promo": 36.0,
-            "recommendation": "Nội thất: Average performance, monitor and adjust"
-          },
-          "Sản phẩm chống nắng": {
-            "sales_lift_percent": 1.96,
-            "price_difference": -249.22,
-            "rating_difference": -0.122,
-            "promo_effectiveness": "low",
-            "market_share_promo": 28.2,
-            "recommendation": "Sản phẩm chống nắng: Average performance, monitor and adjust"
-          },
-          "Nước hoa nam": {
-            "sales_lift_percent": 17.14,
-            "price_difference": -215.39,
-            "rating_difference": 0.204,
-            "promo_effectiveness": "high",
-            "market_share_promo": 29.4,
-            "recommendation": "Nước hoa nam: Good promo response, optimize pricing strategy"
-          },
-          "Nước hoa": {
-            "sales_lift_percent": 31.97,
-            "price_difference": -240.62,
-            "rating_difference": -0.129,
-            "promo_effectiveness": "high",
-            "market_share_promo": 32.2,
-            "recommendation": "Nước hoa: Good promo response, optimize pricing strategy"
-          },
-          "Mỹ phẩm tự nhiên": {
-            "sales_lift_percent": 5.49,
-            "price_difference": -221.02,
-            "rating_difference": 0.048,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 29.6,
-            "recommendation": "Mỹ phẩm tự nhiên: Average performance, monitor and adjust"
-          },
-          "Điện tử": {
-            "sales_lift_percent": 22.92,
-            "price_difference": -232.63,
-            "rating_difference": 0.023,
-            "promo_effectiveness": "high",
-            "market_share_promo": 32.8,
-            "recommendation": "Điện tử: Excellent promo performance, expand program"
-          },
-          "Kem dưỡng": {
-            "sales_lift_percent": 4.9,
-            "price_difference": -240.1,
-            "rating_difference": -0.004,
-            "promo_effectiveness": "low",
-            "market_share_promo": 30.2,
-            "recommendation": "Kem dưỡng: Average performance, monitor and adjust"
-          },
-          "Phụ kiện điện thoại": {
-            "sales_lift_percent": 4.39,
-            "price_difference": -250.2,
-            "rating_difference": -0.159,
-            "promo_effectiveness": "low",
-            "market_share_promo": 35.8,
-            "recommendation": "Phụ kiện điện thoại: Average performance, monitor and adjust"
-          },
-          "Sản phẩm giảm thâm": {
-            "sales_lift_percent": 37.16,
-            "price_difference": -245.02,
-            "rating_difference": -0.01,
-            "promo_effectiveness": "high",
-            "market_share_promo": 32.7,
-            "recommendation": "Sản phẩm giảm thâm: Good promo response, optimize pricing strategy"
-          },
-          "Sản phẩm làm sạch": {
-            "sales_lift_percent": 23.42,
-            "price_difference": -256.8,
-            "rating_difference": -0.063,
-            "promo_effectiveness": "high",
-            "market_share_promo": 37.3,
-            "recommendation": "Sản phẩm làm sạch: Good promo response, optimize pricing strategy"
-          },
-          "Sản phẩm dưỡng móng": {
-            "sales_lift_percent": 5.42,
-            "price_difference": -252.29,
-            "rating_difference": 0.046,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 35.3,
-            "recommendation": "Sản phẩm dưỡng móng: Average performance, monitor and adjust"
-          },
-          "Mỹ phẩm Hàn Quốc": {
-            "sales_lift_percent": 21.9,
-            "price_difference": -218.7,
-            "rating_difference": -0.038,
-            "promo_effectiveness": "high",
-            "market_share_promo": 28.4,
-            "recommendation": "Mỹ phẩm Hàn Quốc: Good promo response, optimize pricing strategy"
-          },
-          "Sản phẩm làm sạch sâu": {
-            "sales_lift_percent": 14.15,
-            "price_difference": -255.23,
-            "rating_difference": -0.407,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 34.1,
-            "recommendation": "Sản phẩm làm sạch sâu: Good promo response, optimize pricing strategy"
-          },
-          "Đồ bơi": {
-            "sales_lift_percent": 14.87,
-            "price_difference": -246.49,
-            "rating_difference": -0.2,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 30.5,
-            "recommendation": "Đồ bơi: Good promo response, optimize pricing strategy"
-          },
-          "Nước tẩy trang": {
-            "sales_lift_percent": 45.67,
-            "price_difference": -232.38,
-            "rating_difference": 0.065,
-            "promo_effectiveness": "high",
-            "market_share_promo": 34.8,
-            "recommendation": "Nước tẩy trang: Excellent promo performance, expand program"
-          },
-          "Sản phẩm bảo vệ môi trường": {
-            "sales_lift_percent": 31.55,
-            "price_difference": -219.99,
-            "rating_difference": -0.246,
-            "promo_effectiveness": "high",
-            "market_share_promo": 34.3,
-            "recommendation": "Sản phẩm bảo vệ môi trường: Good promo response, optimize pricing strategy"
-          },
-          "Phụ kiện thời trang": {
-            "sales_lift_percent": 6.44,
-            "price_difference": -256.38,
-            "rating_difference": -0.412,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 36.7,
-            "recommendation": "Phụ kiện thời trang: Average performance, monitor and adjust"
-          },
-          "Sản phẩm chăm sóc thú cưng": {
-            "sales_lift_percent": 14.97,
-            "price_difference": -236.41,
-            "rating_difference": 0.086,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 28.7,
-            "recommendation": "Sản phẩm chăm sóc thú cưng: Good promo response, optimize pricing strategy"
-          },
-          "Giày dép": {
-            "sales_lift_percent": 5.36,
-            "price_difference": -220.43,
-            "rating_difference": 0.066,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 30.3,
-            "recommendation": "Giày dép: Average performance, monitor and adjust"
-          },
-          "Sản phẩm hỗ trợ sinh lý": {
-            "sales_lift_percent": 18.74,
-            "price_difference": -251.49,
-            "rating_difference": 0.195,
-            "promo_effectiveness": "high",
-            "market_share_promo": 39.8,
-            "recommendation": "Sản phẩm hỗ trợ sinh lý: Good promo response, optimize pricing strategy"
-          },
-          "Dầu xả": {
-            "sales_lift_percent": 8.97,
-            "price_difference": -228.02,
-            "rating_difference": 0.091,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 33.3,
-            "recommendation": "Dầu xả: Average performance, monitor and adjust"
-          },
-          "Thực phẩm chức năng giảm cân": {
-            "sales_lift_percent": 9.6,
-            "price_difference": -217.84,
-            "rating_difference": 0.197,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 33.0,
-            "recommendation": "Thực phẩm chức năng giảm cân: Average performance, monitor and adjust"
-          },
-          "Đồ dùng nhà bếp": {
-            "sales_lift_percent": -7.9,
-            "price_difference": -245.23,
-            "rating_difference": 0.348,
-            "promo_effectiveness": "low",
-            "market_share_promo": 35.8,
-            "recommendation": "Đồ dùng nhà bếp: Poor promo performance, review strategy"
-          },
-          "Sản phẩm công nghệ": {
-            "sales_lift_percent": -6.94,
-            "price_difference": -251.33,
-            "rating_difference": -0.012,
-            "promo_effectiveness": "low",
-            "market_share_promo": 31.8,
-            "recommendation": "Sản phẩm công nghệ: Poor promo performance, review strategy"
-          },
-          "Đồ handmade": {
-            "sales_lift_percent": 32.45,
-            "price_difference": -239.0,
-            "rating_difference": -0.123,
-            "promo_effectiveness": "high",
-            "market_share_promo": 37.2,
-            "recommendation": "Đồ handmade: Good promo response, optimize pricing strategy"
-          },
-          "Thời trang": {
-            "sales_lift_percent": 60.37,
-            "price_difference": -207.25,
-            "rating_difference": -0.09,
-            "promo_effectiveness": "high",
-            "market_share_promo": 30.2,
-            "recommendation": "Thời trang: Good promo response, optimize pricing strategy"
-          },
           "Bút kẻ mắt": {
             "sales_lift_percent": 13.68,
             "price_difference": -247.69,
@@ -21674,78 +21394,6 @@
             "promo_effectiveness": "medium",
             "market_share_promo": 34.5,
             "recommendation": "Bút kẻ mắt: Good promo response, optimize pricing strategy"
-          },
-          "Serum retinol": {
-            "sales_lift_percent": 17.38,
-            "price_difference": -246.36,
-            "rating_difference": 0.038,
-            "promo_effectiveness": "high",
-            "market_share_promo": 36.1,
-            "recommendation": "Serum retinol: Good promo response, optimize pricing strategy"
-          },
-          "Đồ trang trí": {
-            "sales_lift_percent": 4.64,
-            "price_difference": -255.69,
-            "rating_difference": -0.29,
-            "promo_effectiveness": "low",
-            "market_share_promo": 28.2,
-            "recommendation": "Đồ trang trí: Average performance, monitor and adjust"
-          },
-          "Sữa tắm": {
-            "sales_lift_percent": 13.01,
-            "price_difference": -275.52,
-            "rating_difference": 0.129,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 33.3,
-            "recommendation": "Sữa tắm: Good promo response, optimize pricing strategy"
-          },
-          "Đồ gia dụng": {
-            "sales_lift_percent": 3.73,
-            "price_difference": -228.25,
-            "rating_difference": -0.023,
-            "promo_effectiveness": "low",
-            "market_share_promo": 31.2,
-            "recommendation": "Đồ gia dụng: Average performance, monitor and adjust"
-          },
-          "Sản phẩm dưỡng tóc": {
-            "sales_lift_percent": 13.55,
-            "price_difference": -219.5,
-            "rating_difference": -0.006,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 31.8,
-            "recommendation": "Sản phẩm dưỡng tóc: Good promo response, optimize pricing strategy"
-          },
-          "Túi xách": {
-            "sales_lift_percent": 2.91,
-            "price_difference": -263.12,
-            "rating_difference": 0.063,
-            "promo_effectiveness": "low",
-            "market_share_promo": 35.6,
-            "recommendation": "Túi xách: Average performance, monitor and adjust"
-          },
-          "Mặt nạ dưỡng da": {
-            "sales_lift_percent": 11.21,
-            "price_difference": -233.92,
-            "rating_difference": 0.177,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 30.0,
-            "recommendation": "Mặt nạ dưỡng da: Good promo response, optimize pricing strategy"
-          },
-          "Sản phẩm xịt khoáng": {
-            "sales_lift_percent": -2.62,
-            "price_difference": -226.18,
-            "rating_difference": 0.388,
-            "promo_effectiveness": "low",
-            "market_share_promo": 30.9,
-            "recommendation": "Sản phẩm xịt khoáng: Poor promo performance, review strategy"
-          },
-          "Mì ăn liền": {
-            "sales_lift_percent": -9.18,
-            "price_difference": -253.1,
-            "rating_difference": -0.004,
-            "promo_effectiveness": "low",
-            "market_share_promo": 29.5,
-            "recommendation": "Mì ăn liền: Poor promo performance, review strategy"
           },
           "Son bóng": {
             "sales_lift_percent": 36.94,
@@ -21755,69 +21403,21 @@
             "market_share_promo": 34.7,
             "recommendation": "Son bóng: Good promo response, optimize pricing strategy"
           },
-          "Thiết bị thể thao": {
-            "sales_lift_percent": 31.83,
-            "price_difference": -251.0,
-            "rating_difference": -0.141,
-            "promo_effectiveness": "high",
-            "market_share_promo": 35.6,
-            "recommendation": "Thiết bị thể thao: Good promo response, optimize pricing strategy"
-          },
-          "Bánh kẹo": {
-            "sales_lift_percent": 14.71,
-            "price_difference": -236.07,
-            "rating_difference": -0.415,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 30.6,
-            "recommendation": "Bánh kẹo: Good promo response, optimize pricing strategy"
-          },
-          "Đồ chơi": {
-            "sales_lift_percent": 14.31,
-            "price_difference": -222.93,
-            "rating_difference": 0.129,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 29.3,
-            "recommendation": "Đồ chơi: Good promo response, optimize pricing strategy"
-          },
-          "Nước cân bằng": {
-            "sales_lift_percent": 22.28,
-            "price_difference": -214.94,
-            "rating_difference": 0.042,
-            "promo_effectiveness": "high",
-            "market_share_promo": 26.1,
-            "recommendation": "Nước cân bằng: Excellent promo performance, expand program"
-          },
-          "Bột ăn dặm": {
-            "sales_lift_percent": -6.49,
-            "price_difference": -240.08,
-            "rating_difference": -0.317,
+          "Sản phẩm chống nắng": {
+            "sales_lift_percent": 1.96,
+            "price_difference": -249.22,
+            "rating_difference": -0.122,
             "promo_effectiveness": "low",
-            "market_share_promo": 33.3,
-            "recommendation": "Bột ăn dặm: Poor promo performance, review strategy"
+            "market_share_promo": 28.2,
+            "recommendation": "Sản phẩm chống nắng: Average performance, monitor and adjust"
           },
-          "Kem chống nắng vật lý": {
-            "sales_lift_percent": 17.28,
-            "price_difference": -243.99,
-            "rating_difference": -0.043,
+          "Bảng phấn mắt": {
+            "sales_lift_percent": 39.08,
+            "price_difference": -240.71,
+            "rating_difference": -0.242,
             "promo_effectiveness": "high",
-            "market_share_promo": 33.7,
-            "recommendation": "Kem chống nắng vật lý: Good promo response, optimize pricing strategy"
-          },
-          "Máy làm đẹp": {
-            "sales_lift_percent": 3.23,
-            "price_difference": -237.82,
-            "rating_difference": -0.284,
-            "promo_effectiveness": "low",
-            "market_share_promo": 36.0,
-            "recommendation": "Máy làm đẹp: Average performance, monitor and adjust"
-          },
-          "Mỹ phẩm": {
-            "sales_lift_percent": 8.92,
-            "price_difference": -237.85,
-            "rating_difference": -0.445,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 28.7,
-            "recommendation": "Mỹ phẩm: Average performance, monitor and adjust"
+            "market_share_promo": 33.0,
+            "recommendation": "Bảng phấn mắt: Good promo response, optimize pricing strategy"
           },
           "Mỹ phẩm Nhật Bản": {
             "sales_lift_percent": 9.5,
@@ -21827,21 +21427,13 @@
             "market_share_promo": 34.0,
             "recommendation": "Mỹ phẩm Nhật Bản: Average performance, monitor and adjust"
           },
-          "Thiết bị văn phòng": {
-            "sales_lift_percent": 2.45,
-            "price_difference": -213.79,
-            "rating_difference": 0.155,
-            "promo_effectiveness": "low",
-            "market_share_promo": 32.6,
-            "recommendation": "Thiết bị văn phòng: Average performance, monitor and adjust"
-          },
-          "Nước hoa hồng": {
-            "sales_lift_percent": 13.95,
-            "price_difference": -236.33,
-            "rating_difference": -0.081,
+          "Điện thoại thông minh": {
+            "sales_lift_percent": 11.65,
+            "price_difference": -256.31,
+            "rating_difference": 0.013,
             "promo_effectiveness": "medium",
-            "market_share_promo": 27.8,
-            "recommendation": "Nước hoa hồng: Good promo response, optimize pricing strategy"
+            "market_share_promo": 35.0,
+            "recommendation": "Điện thoại thông minh: Good promo response, optimize pricing strategy"
           },
           "Đồ ăn nhanh": {
             "sales_lift_percent": 56.83,
@@ -21851,21 +21443,13 @@
             "market_share_promo": 34.9,
             "recommendation": "Đồ ăn nhanh: Good promo response, optimize pricing strategy"
           },
-          "Máy lọc không khí": {
-            "sales_lift_percent": 0.24,
-            "price_difference": -262.6,
-            "rating_difference": -0.101,
-            "promo_effectiveness": "low",
-            "market_share_promo": 36.3,
-            "recommendation": "Máy lọc không khí: Average performance, monitor and adjust"
-          },
-          "Sản phẩm giảm cân": {
-            "sales_lift_percent": 16.43,
-            "price_difference": -242.46,
-            "rating_difference": -0.011,
-            "promo_effectiveness": "high",
-            "market_share_promo": 35.2,
-            "recommendation": "Sản phẩm giảm cân: Good promo response, optimize pricing strategy"
+          "Mỹ phẩm": {
+            "sales_lift_percent": 8.92,
+            "price_difference": -237.85,
+            "rating_difference": -0.445,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 28.7,
+            "recommendation": "Mỹ phẩm: Average performance, monitor and adjust"
           },
           "Đồ uống": {
             "sales_lift_percent": -15.43,
@@ -21875,165 +21459,37 @@
             "market_share_promo": 33.7,
             "recommendation": "Đồ uống: Poor promo performance, review strategy"
           },
-          "Sản phẩm chống gàu": {
-            "sales_lift_percent": 13.47,
-            "price_difference": -214.85,
-            "rating_difference": 0.088,
+          "Đồ bơi": {
+            "sales_lift_percent": 14.87,
+            "price_difference": -246.49,
+            "rating_difference": -0.2,
             "promo_effectiveness": "medium",
-            "market_share_promo": 29.5,
-            "recommendation": "Sản phẩm chống gàu: Good promo response, optimize pricing strategy"
+            "market_share_promo": 30.5,
+            "recommendation": "Đồ bơi: Good promo response, optimize pricing strategy"
           },
-          "Thực phẩm sạch": {
-            "sales_lift_percent": 5.07,
-            "price_difference": -233.81,
-            "rating_difference": -0.424,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 30.0,
-            "recommendation": "Thực phẩm sạch: Average performance, monitor and adjust"
-          },
-          "Máy ảnh": {
-            "sales_lift_percent": 26.02,
-            "price_difference": -234.83,
-            "rating_difference": 0.392,
-            "promo_effectiveness": "high",
-            "market_share_promo": 38.6,
-            "recommendation": "Máy ảnh: Excellent promo performance, expand program"
-          },
-          "Thực phẩm chức năng": {
-            "sales_lift_percent": 29.49,
-            "price_difference": -217.56,
-            "rating_difference": 0.1,
-            "promo_effectiveness": "high",
-            "market_share_promo": 29.9,
-            "recommendation": "Thực phẩm chức năng: Excellent promo performance, expand program"
-          },
-          "Đồ gỗ": {
-            "sales_lift_percent": 20.08,
-            "price_difference": -227.27,
-            "rating_difference": -0.178,
-            "promo_effectiveness": "high",
-            "market_share_promo": 33.0,
-            "recommendation": "Đồ gỗ: Good promo response, optimize pricing strategy"
-          },
-          "Sản phẩm làm mềm da": {
-            "sales_lift_percent": 22.71,
-            "price_difference": -235.66,
-            "rating_difference": -0.004,
-            "promo_effectiveness": "high",
-            "market_share_promo": 28.0,
-            "recommendation": "Sản phẩm làm mềm da: Good promo response, optimize pricing strategy"
-          },
-          "Tinh chất dưỡng da": {
-            "sales_lift_percent": 54.39,
-            "price_difference": -231.53,
-            "rating_difference": -0.622,
-            "promo_effectiveness": "high",
-            "market_share_promo": 32.0,
-            "recommendation": "Tinh chất dưỡng da: Good promo response, optimize pricing strategy"
-          },
-          "Mỹ phẩm hữu cơ": {
-            "sales_lift_percent": 36.32,
-            "price_difference": -250.07,
-            "rating_difference": 0.106,
-            "promo_effectiveness": "high",
-            "market_share_promo": 30.8,
-            "recommendation": "Mỹ phẩm hữu cơ: Excellent promo performance, expand program"
-          },
-          "Thực phẩm": {
-            "sales_lift_percent": 15.77,
-            "price_difference": -226.25,
-            "rating_difference": -0.154,
-            "promo_effectiveness": "high",
-            "market_share_promo": 30.1,
-            "recommendation": "Thực phẩm: Good promo response, optimize pricing strategy"
-          },
-          "Bánh ngọt": {
-            "sales_lift_percent": 34.0,
-            "price_difference": -247.91,
-            "rating_difference": -0.174,
-            "promo_effectiveness": "high",
-            "market_share_promo": 35.7,
-            "recommendation": "Bánh ngọt: Good promo response, optimize pricing strategy"
-          },
-          "Sản phẩm chăm sóc sức khỏe": {
-            "sales_lift_percent": -12.96,
-            "price_difference": -258.16,
-            "rating_difference": -0.373,
-            "promo_effectiveness": "low",
-            "market_share_promo": 30.4,
-            "recommendation": "Sản phẩm chăm sóc sức khỏe: Poor promo performance, review strategy"
-          },
-          "Sản phẩm làm sạch cơ thể": {
-            "sales_lift_percent": 5.82,
-            "price_difference": -245.34,
-            "rating_difference": 0.058,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 31.0,
-            "recommendation": "Sản phẩm làm sạch cơ thể: Average performance, monitor and adjust"
-          },
-          "Kem mắt": {
-            "sales_lift_percent": 26.37,
-            "price_difference": -247.37,
-            "rating_difference": 0.426,
-            "promo_effectiveness": "high",
-            "market_share_promo": 32.1,
-            "recommendation": "Kem mắt: Excellent promo performance, expand program"
-          },
-          "Máy sấy tóc": {
-            "sales_lift_percent": 28.53,
-            "price_difference": -247.76,
+          "Sản phẩm công nghệ": {
+            "sales_lift_percent": -6.94,
+            "price_difference": -251.33,
             "rating_difference": -0.012,
-            "promo_effectiveness": "high",
-            "market_share_promo": 33.6,
-            "recommendation": "Máy sấy tóc: Good promo response, optimize pricing strategy"
-          },
-          "Gel lô hội": {
-            "sales_lift_percent": 9.07,
-            "price_difference": -234.7,
-            "rating_difference": -0.218,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 24.7,
-            "recommendation": "Gel lô hội: Average performance, monitor and adjust"
-          },
-          "Dầu tẩy trang": {
-            "sales_lift_percent": 6.9,
-            "price_difference": -257.61,
-            "rating_difference": 0.056,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 33.0,
-            "recommendation": "Dầu tẩy trang: Average performance, monitor and adjust"
-          },
-          "Gel tắm": {
-            "sales_lift_percent": -0.09,
-            "price_difference": -244.89,
-            "rating_difference": 0.227,
             "promo_effectiveness": "low",
-            "market_share_promo": 36.4,
-            "recommendation": "Gel tắm: Poor promo performance, review strategy"
+            "market_share_promo": 31.8,
+            "recommendation": "Sản phẩm công nghệ: Poor promo performance, review strategy"
           },
-          "Dầu gội": {
-            "sales_lift_percent": 12.28,
-            "price_difference": -235.59,
-            "rating_difference": 0.081,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 34.0,
-            "recommendation": "Dầu gội: Good promo response, optimize pricing strategy"
-          },
-          "Điện thoại thông minh": {
-            "sales_lift_percent": 11.65,
-            "price_difference": -256.31,
-            "rating_difference": 0.013,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 35.0,
-            "recommendation": "Điện thoại thông minh: Good promo response, optimize pricing strategy"
-          },
-          "Thiết bị gia đình": {
-            "sales_lift_percent": 35.17,
-            "price_difference": -236.87,
-            "rating_difference": 0.092,
+          "Sản phẩm hỗ trợ sinh lý": {
+            "sales_lift_percent": 18.74,
+            "price_difference": -251.49,
+            "rating_difference": 0.195,
             "promo_effectiveness": "high",
-            "market_share_promo": 32.7,
-            "recommendation": "Thiết bị gia đình: Excellent promo performance, expand program"
+            "market_share_promo": 39.8,
+            "recommendation": "Sản phẩm hỗ trợ sinh lý: Good promo response, optimize pricing strategy"
+          },
+          "Sản phẩm dưỡng tóc": {
+            "sales_lift_percent": 13.55,
+            "price_difference": -219.5,
+            "rating_difference": -0.006,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 31.8,
+            "recommendation": "Sản phẩm dưỡng tóc: Good promo response, optimize pricing strategy"
           },
           "Mỹ phẩm châu Âu": {
             "sales_lift_percent": -0.86,
@@ -22043,85 +21499,125 @@
             "market_share_promo": 32.7,
             "recommendation": "Mỹ phẩm châu Âu: Poor promo performance, review strategy"
           },
-          "Đồ chơi giáo dục": {
-            "sales_lift_percent": 35.06,
-            "price_difference": -224.76,
-            "rating_difference": 0.285,
-            "promo_effectiveness": "high",
-            "market_share_promo": 33.3,
-            "recommendation": "Đồ chơi giáo dục: Excellent promo performance, expand program"
+          "Sản phẩm chăm sóc sức khỏe": {
+            "sales_lift_percent": -12.96,
+            "price_difference": -258.16,
+            "rating_difference": -0.373,
+            "promo_effectiveness": "low",
+            "market_share_promo": 30.4,
+            "recommendation": "Sản phẩm chăm sóc sức khỏe: Poor promo performance, review strategy"
           },
-          "Sản phẩm chăm sóc da mặt": {
-            "sales_lift_percent": 23.16,
-            "price_difference": -223.86,
-            "rating_difference": -0.031,
+          "Mỹ phẩm Hàn Quốc": {
+            "sales_lift_percent": 21.9,
+            "price_difference": -218.7,
+            "rating_difference": -0.038,
             "promo_effectiveness": "high",
-            "market_share_promo": 29.5,
-            "recommendation": "Sản phẩm chăm sóc da mặt: Good promo response, optimize pricing strategy"
+            "market_share_promo": 28.4,
+            "recommendation": "Mỹ phẩm Hàn Quốc: Good promo response, optimize pricing strategy"
           },
-          "Sách": {
-            "sales_lift_percent": 34.4,
-            "price_difference": -267.19,
-            "rating_difference": 0.673,
+          "Máy lọc không khí": {
+            "sales_lift_percent": 0.24,
+            "price_difference": -262.6,
+            "rating_difference": -0.101,
+            "promo_effectiveness": "low",
+            "market_share_promo": 36.3,
+            "recommendation": "Máy lọc không khí: Average performance, monitor and adjust"
+          },
+          "Dầu tẩy trang": {
+            "sales_lift_percent": 6.9,
+            "price_difference": -257.61,
+            "rating_difference": 0.056,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 33.0,
+            "recommendation": "Dầu tẩy trang: Average performance, monitor and adjust"
+          },
+          "Mỹ phẩm hữu cơ": {
+            "sales_lift_percent": 36.32,
+            "price_difference": -250.07,
+            "rating_difference": 0.106,
+            "promo_effectiveness": "high",
+            "market_share_promo": 30.8,
+            "recommendation": "Mỹ phẩm hữu cơ: Excellent promo performance, expand program"
+          },
+          "Bánh ngọt": {
+            "sales_lift_percent": 34.0,
+            "price_difference": -247.91,
+            "rating_difference": -0.174,
+            "promo_effectiveness": "high",
+            "market_share_promo": 35.7,
+            "recommendation": "Bánh ngọt: Good promo response, optimize pricing strategy"
+          },
+          "Kem chống nắng vật lý": {
+            "sales_lift_percent": 17.28,
+            "price_difference": -243.99,
+            "rating_difference": -0.043,
+            "promo_effectiveness": "high",
+            "market_share_promo": 33.7,
+            "recommendation": "Kem chống nắng vật lý: Good promo response, optimize pricing strategy"
+          },
+          "Sản phẩm chống lão hóa": {
+            "sales_lift_percent": -5.01,
+            "price_difference": -212.73,
+            "rating_difference": 0.095,
+            "promo_effectiveness": "low",
+            "market_share_promo": 31.1,
+            "recommendation": "Sản phẩm chống lão hóa: Poor promo performance, review strategy"
+          },
+          "Thiết bị thể thao": {
+            "sales_lift_percent": 31.83,
+            "price_difference": -251.0,
+            "rating_difference": -0.141,
+            "promo_effectiveness": "high",
+            "market_share_promo": 35.6,
+            "recommendation": "Thiết bị thể thao: Good promo response, optimize pricing strategy"
+          },
+          "Đồ gỗ": {
+            "sales_lift_percent": 20.08,
+            "price_difference": -227.27,
+            "rating_difference": -0.178,
             "promo_effectiveness": "high",
             "market_share_promo": 33.0,
-            "recommendation": "Sách: Excellent promo performance, expand program"
+            "recommendation": "Đồ gỗ: Good promo response, optimize pricing strategy"
           },
-          "Văn phòng phẩm": {
-            "sales_lift_percent": 15.09,
-            "price_difference": -232.28,
-            "rating_difference": -0.125,
+          "Serum retinol": {
+            "sales_lift_percent": 17.38,
+            "price_difference": -246.36,
+            "rating_difference": 0.038,
             "promo_effectiveness": "high",
-            "market_share_promo": 30.7,
-            "recommendation": "Văn phòng phẩm: Good promo response, optimize pricing strategy"
+            "market_share_promo": 36.1,
+            "recommendation": "Serum retinol: Good promo response, optimize pricing strategy"
           },
-          "Bút kẻ mày": {
-            "sales_lift_percent": 25.48,
-            "price_difference": -222.83,
-            "rating_difference": 0.092,
-            "promo_effectiveness": "high",
-            "market_share_promo": 35.2,
-            "recommendation": "Bút kẻ mày: Excellent promo performance, expand program"
-          },
-          "Bộ sản phẩm chăm sóc da": {
-            "sales_lift_percent": 24.89,
-            "price_difference": -227.05,
-            "rating_difference": -0.28,
-            "promo_effectiveness": "high",
-            "market_share_promo": 29.2,
-            "recommendation": "Bộ sản phẩm chăm sóc da: Good promo response, optimize pricing strategy"
-          },
-          "Sản phẩm làm đẹp": {
-            "sales_lift_percent": -2.35,
-            "price_difference": -249.68,
-            "rating_difference": 0.061,
+          "Nội thất": {
+            "sales_lift_percent": 1.72,
+            "price_difference": -250.26,
+            "rating_difference": 0.044,
             "promo_effectiveness": "low",
-            "market_share_promo": 34.0,
-            "recommendation": "Sản phẩm làm đẹp: Poor promo performance, review strategy"
-          },
-          "Sản phẩm du lịch": {
-            "sales_lift_percent": 28.54,
-            "price_difference": -265.79,
-            "rating_difference": 0.137,
-            "promo_effectiveness": "high",
             "market_share_promo": 36.0,
-            "recommendation": "Sản phẩm du lịch: Excellent promo performance, expand program"
+            "recommendation": "Nội thất: Average performance, monitor and adjust"
           },
-          "Sản phẩm làm trắng": {
-            "sales_lift_percent": 14.54,
-            "price_difference": -234.95,
-            "rating_difference": -0.337,
-            "promo_effectiveness": "medium",
-            "market_share_promo": 31.3,
-            "recommendation": "Sản phẩm làm trắng: Good promo response, optimize pricing strategy"
+          "Thiết bị chiếu sáng": {
+            "sales_lift_percent": 15.48,
+            "price_difference": -258.76,
+            "rating_difference": 0.188,
+            "promo_effectiveness": "high",
+            "market_share_promo": 29.8,
+            "recommendation": "Thiết bị chiếu sáng: Good promo response, optimize pricing strategy"
           },
-          "Đồ dùng trẻ em": {
-            "sales_lift_percent": 8.25,
-            "price_difference": -239.11,
-            "rating_difference": 0.577,
+          "Son môi": {
+            "sales_lift_percent": 9.61,
+            "price_difference": -224.53,
+            "rating_difference": -0.663,
             "promo_effectiveness": "medium",
-            "market_share_promo": 34.0,
-            "recommendation": "Đồ dùng trẻ em: Average performance, monitor and adjust"
+            "market_share_promo": 27.0,
+            "recommendation": "Son môi: Average performance, monitor and adjust"
+          },
+          "Máy tính xách tay": {
+            "sales_lift_percent": 16.25,
+            "price_difference": -221.99,
+            "rating_difference": -0.438,
+            "promo_effectiveness": "high",
+            "market_share_promo": 27.9,
+            "recommendation": "Máy tính xách tay: Good promo response, optimize pricing strategy"
           },
           "Kem chống nắng hóa học": {
             "sales_lift_percent": -16.93,
@@ -22131,6 +21627,30 @@
             "market_share_promo": 34.0,
             "recommendation": "Kem chống nắng hóa học: Poor promo performance, review strategy"
           },
+          "Thiết bị văn phòng": {
+            "sales_lift_percent": 2.45,
+            "price_difference": -213.79,
+            "rating_difference": 0.155,
+            "promo_effectiveness": "low",
+            "market_share_promo": 32.6,
+            "recommendation": "Thiết bị văn phòng: Average performance, monitor and adjust"
+          },
+          "Thiết bị âm thanh": {
+            "sales_lift_percent": 14.89,
+            "price_difference": -232.67,
+            "rating_difference": -0.394,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 28.8,
+            "recommendation": "Thiết bị âm thanh: Good promo response, optimize pricing strategy"
+          },
+          "Nước hoa": {
+            "sales_lift_percent": 31.97,
+            "price_difference": -240.62,
+            "rating_difference": -0.129,
+            "promo_effectiveness": "high",
+            "market_share_promo": 32.2,
+            "recommendation": "Nước hoa: Good promo response, optimize pricing strategy"
+          },
           "Sản phẩm dưỡng ẩm": {
             "sales_lift_percent": 12.42,
             "price_difference": -238.75,
@@ -22139,13 +21659,197 @@
             "market_share_promo": 32.7,
             "recommendation": "Sản phẩm dưỡng ẩm: Good promo response, optimize pricing strategy"
           },
-          "Sản phẩm chống lão hóa": {
-            "sales_lift_percent": -5.01,
-            "price_difference": -212.73,
-            "rating_difference": 0.095,
+          "Thiết bị điện tử": {
+            "sales_lift_percent": 12.49,
+            "price_difference": -231.55,
+            "rating_difference": -0.099,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 32.2,
+            "recommendation": "Thiết bị điện tử: Good promo response, optimize pricing strategy"
+          },
+          "Thực phẩm": {
+            "sales_lift_percent": 15.77,
+            "price_difference": -226.25,
+            "rating_difference": -0.154,
+            "promo_effectiveness": "high",
+            "market_share_promo": 30.1,
+            "recommendation": "Thực phẩm: Good promo response, optimize pricing strategy"
+          },
+          "Giày dép": {
+            "sales_lift_percent": 5.36,
+            "price_difference": -220.43,
+            "rating_difference": 0.066,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 30.3,
+            "recommendation": "Giày dép: Average performance, monitor and adjust"
+          },
+          "Sản phẩm chăm sóc da mặt": {
+            "sales_lift_percent": 23.16,
+            "price_difference": -223.86,
+            "rating_difference": -0.031,
+            "promo_effectiveness": "high",
+            "market_share_promo": 29.5,
+            "recommendation": "Sản phẩm chăm sóc da mặt: Good promo response, optimize pricing strategy"
+          },
+          "Đồ chơi giáo dục": {
+            "sales_lift_percent": 35.06,
+            "price_difference": -224.76,
+            "rating_difference": 0.285,
+            "promo_effectiveness": "high",
+            "market_share_promo": 33.3,
+            "recommendation": "Đồ chơi giáo dục: Excellent promo performance, expand program"
+          },
+          "Bút kẻ mày": {
+            "sales_lift_percent": 25.48,
+            "price_difference": -222.83,
+            "rating_difference": 0.092,
+            "promo_effectiveness": "high",
+            "market_share_promo": 35.2,
+            "recommendation": "Bút kẻ mày: Excellent promo performance, expand program"
+          },
+          "Máy làm đẹp": {
+            "sales_lift_percent": 3.23,
+            "price_difference": -237.82,
+            "rating_difference": -0.284,
             "promo_effectiveness": "low",
-            "market_share_promo": 31.1,
-            "recommendation": "Sản phẩm chống lão hóa: Poor promo performance, review strategy"
+            "market_share_promo": 36.0,
+            "recommendation": "Máy làm đẹp: Average performance, monitor and adjust"
+          },
+          "Mì ăn liền": {
+            "sales_lift_percent": -9.18,
+            "price_difference": -253.1,
+            "rating_difference": -0.004,
+            "promo_effectiveness": "low",
+            "market_share_promo": 29.5,
+            "recommendation": "Mì ăn liền: Poor promo performance, review strategy"
+          },
+          "Sản phẩm trị mụn": {
+            "sales_lift_percent": 48.25,
+            "price_difference": -219.94,
+            "rating_difference": 0.414,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.1,
+            "recommendation": "Sản phẩm trị mụn: Excellent promo performance, expand program"
+          },
+          "Máy ảnh": {
+            "sales_lift_percent": 26.02,
+            "price_difference": -234.83,
+            "rating_difference": 0.392,
+            "promo_effectiveness": "high",
+            "market_share_promo": 38.6,
+            "recommendation": "Máy ảnh: Excellent promo performance, expand program"
+          },
+          "Điện tử": {
+            "sales_lift_percent": 22.92,
+            "price_difference": -232.63,
+            "rating_difference": 0.023,
+            "promo_effectiveness": "high",
+            "market_share_promo": 32.8,
+            "recommendation": "Điện tử: Excellent promo performance, expand program"
+          },
+          "Mặt nạ thiên nhiên": {
+            "sales_lift_percent": 38.05,
+            "price_difference": -237.08,
+            "rating_difference": 0.024,
+            "promo_effectiveness": "high",
+            "market_share_promo": 31.0,
+            "recommendation": "Mặt nạ thiên nhiên: Excellent promo performance, expand program"
+          },
+          "Nước hoa hồng": {
+            "sales_lift_percent": 13.95,
+            "price_difference": -236.33,
+            "rating_difference": -0.081,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 27.8,
+            "recommendation": "Nước hoa hồng: Good promo response, optimize pricing strategy"
+          },
+          "Thực phẩm sạch": {
+            "sales_lift_percent": 5.07,
+            "price_difference": -233.81,
+            "rating_difference": -0.424,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 30.0,
+            "recommendation": "Thực phẩm sạch: Average performance, monitor and adjust"
+          },
+          "Sản phẩm dưỡng móng": {
+            "sales_lift_percent": 5.42,
+            "price_difference": -252.29,
+            "rating_difference": 0.046,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 35.3,
+            "recommendation": "Sản phẩm dưỡng móng: Average performance, monitor and adjust"
+          },
+          "Sách": {
+            "sales_lift_percent": 34.4,
+            "price_difference": -267.19,
+            "rating_difference": 0.673,
+            "promo_effectiveness": "high",
+            "market_share_promo": 33.0,
+            "recommendation": "Sách: Excellent promo performance, expand program"
+          },
+          "Bánh kẹo": {
+            "sales_lift_percent": 14.71,
+            "price_difference": -236.07,
+            "rating_difference": -0.415,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 30.6,
+            "recommendation": "Bánh kẹo: Good promo response, optimize pricing strategy"
+          },
+          "Mặt nạ ngủ": {
+            "sales_lift_percent": 0.94,
+            "price_difference": -227.96,
+            "rating_difference": -0.313,
+            "promo_effectiveness": "low",
+            "market_share_promo": 29.4,
+            "recommendation": "Mặt nạ ngủ: Average performance, monitor and adjust"
+          },
+          "Máy sấy tóc": {
+            "sales_lift_percent": 28.53,
+            "price_difference": -247.76,
+            "rating_difference": -0.012,
+            "promo_effectiveness": "high",
+            "market_share_promo": 33.6,
+            "recommendation": "Máy sấy tóc: Good promo response, optimize pricing strategy"
+          },
+          "Gel tắm": {
+            "sales_lift_percent": -0.09,
+            "price_difference": -244.89,
+            "rating_difference": 0.227,
+            "promo_effectiveness": "low",
+            "market_share_promo": 36.4,
+            "recommendation": "Gel tắm: Poor promo performance, review strategy"
+          },
+          "Mặt nạ dưỡng da": {
+            "sales_lift_percent": 11.21,
+            "price_difference": -233.92,
+            "rating_difference": 0.177,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 30.0,
+            "recommendation": "Mặt nạ dưỡng da: Good promo response, optimize pricing strategy"
+          },
+          "Văn phòng phẩm": {
+            "sales_lift_percent": 15.09,
+            "price_difference": -232.28,
+            "rating_difference": -0.125,
+            "promo_effectiveness": "high",
+            "market_share_promo": 30.7,
+            "recommendation": "Văn phòng phẩm: Good promo response, optimize pricing strategy"
+          },
+          "Đồ dùng nhà bếp": {
+            "sales_lift_percent": -7.9,
+            "price_difference": -245.23,
+            "rating_difference": 0.348,
+            "promo_effectiveness": "low",
+            "market_share_promo": 35.8,
+            "recommendation": "Đồ dùng nhà bếp: Poor promo performance, review strategy"
+          },
+          "Sản phẩm giảm thâm": {
+            "sales_lift_percent": 37.16,
+            "price_difference": -245.02,
+            "rating_difference": -0.01,
+            "promo_effectiveness": "high",
+            "market_share_promo": 32.7,
+            "recommendation": "Sản phẩm giảm thâm: Good promo response, optimize pricing strategy"
           },
           "Sản phẩm làm săn chắc": {
             "sales_lift_percent": 6.25,
@@ -22163,13 +21867,253 @@
             "market_share_promo": 31.2,
             "recommendation": "Nước hoa nữ: Good promo response, optimize pricing strategy"
           },
-          "Thiết bị âm thanh": {
-            "sales_lift_percent": 14.89,
-            "price_difference": -232.67,
-            "rating_difference": -0.394,
+          "Phụ kiện thời trang": {
+            "sales_lift_percent": 6.44,
+            "price_difference": -256.38,
+            "rating_difference": -0.412,
             "promo_effectiveness": "medium",
-            "market_share_promo": 28.8,
-            "recommendation": "Thiết bị âm thanh: Good promo response, optimize pricing strategy"
+            "market_share_promo": 36.7,
+            "recommendation": "Phụ kiện thời trang: Average performance, monitor and adjust"
+          },
+          "Thực phẩm chức năng giảm cân": {
+            "sales_lift_percent": 9.6,
+            "price_difference": -217.84,
+            "rating_difference": 0.197,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 33.0,
+            "recommendation": "Thực phẩm chức năng giảm cân: Average performance, monitor and adjust"
+          },
+          "Mỹ phẩm tự nhiên": {
+            "sales_lift_percent": 5.49,
+            "price_difference": -221.02,
+            "rating_difference": 0.048,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 29.6,
+            "recommendation": "Mỹ phẩm tự nhiên: Average performance, monitor and adjust"
+          },
+          "Sản phẩm chăm sóc thú cưng": {
+            "sales_lift_percent": 14.97,
+            "price_difference": -236.41,
+            "rating_difference": 0.086,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 28.7,
+            "recommendation": "Sản phẩm chăm sóc thú cưng: Good promo response, optimize pricing strategy"
+          },
+          "Sản phẩm làm mềm da": {
+            "sales_lift_percent": 22.71,
+            "price_difference": -235.66,
+            "rating_difference": -0.004,
+            "promo_effectiveness": "high",
+            "market_share_promo": 28.0,
+            "recommendation": "Sản phẩm làm mềm da: Good promo response, optimize pricing strategy"
+          },
+          "Nước tẩy trang": {
+            "sales_lift_percent": 45.67,
+            "price_difference": -232.38,
+            "rating_difference": 0.065,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.8,
+            "recommendation": "Nước tẩy trang: Excellent promo performance, expand program"
+          },
+          "Sản phẩm bảo vệ môi trường": {
+            "sales_lift_percent": 31.55,
+            "price_difference": -219.99,
+            "rating_difference": -0.246,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.3,
+            "recommendation": "Sản phẩm bảo vệ môi trường: Good promo response, optimize pricing strategy"
+          },
+          "Sản phẩm làm sạch sâu": {
+            "sales_lift_percent": 14.15,
+            "price_difference": -255.23,
+            "rating_difference": -0.407,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 34.1,
+            "recommendation": "Sản phẩm làm sạch sâu: Good promo response, optimize pricing strategy"
+          },
+          "Thời trang": {
+            "sales_lift_percent": 60.37,
+            "price_difference": -207.25,
+            "rating_difference": -0.09,
+            "promo_effectiveness": "high",
+            "market_share_promo": 30.2,
+            "recommendation": "Thời trang: Good promo response, optimize pricing strategy"
+          },
+          "Serum vitamin C": {
+            "sales_lift_percent": -6.34,
+            "price_difference": -245.22,
+            "rating_difference": 0.445,
+            "promo_effectiveness": "low",
+            "market_share_promo": 36.2,
+            "recommendation": "Serum vitamin C: Poor promo performance, review strategy"
+          },
+          "Đồ chơi": {
+            "sales_lift_percent": 14.31,
+            "price_difference": -222.93,
+            "rating_difference": 0.129,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 29.3,
+            "recommendation": "Đồ chơi: Good promo response, optimize pricing strategy"
+          },
+          "Phụ kiện điện thoại": {
+            "sales_lift_percent": 4.39,
+            "price_difference": -250.2,
+            "rating_difference": -0.159,
+            "promo_effectiveness": "low",
+            "market_share_promo": 35.8,
+            "recommendation": "Phụ kiện điện thoại: Average performance, monitor and adjust"
+          },
+          "Đồ dùng học tập": {
+            "sales_lift_percent": 18.58,
+            "price_difference": -252.56,
+            "rating_difference": 0.134,
+            "promo_effectiveness": "high",
+            "market_share_promo": 34.3,
+            "recommendation": "Đồ dùng học tập: Good promo response, optimize pricing strategy"
+          },
+          "Sản phẩm du lịch": {
+            "sales_lift_percent": 28.54,
+            "price_difference": -265.79,
+            "rating_difference": 0.137,
+            "promo_effectiveness": "high",
+            "market_share_promo": 36.0,
+            "recommendation": "Sản phẩm du lịch: Excellent promo performance, expand program"
+          },
+          "Sản phẩm xịt khoáng": {
+            "sales_lift_percent": -2.62,
+            "price_difference": -226.18,
+            "rating_difference": 0.388,
+            "promo_effectiveness": "low",
+            "market_share_promo": 30.9,
+            "recommendation": "Sản phẩm xịt khoáng: Poor promo performance, review strategy"
+          },
+          "Thực phẩm chức năng": {
+            "sales_lift_percent": 29.49,
+            "price_difference": -217.56,
+            "rating_difference": 0.1,
+            "promo_effectiveness": "high",
+            "market_share_promo": 29.9,
+            "recommendation": "Thực phẩm chức năng: Excellent promo performance, expand program"
+          },
+          "Kem dưỡng": {
+            "sales_lift_percent": 4.9,
+            "price_difference": -240.1,
+            "rating_difference": -0.004,
+            "promo_effectiveness": "low",
+            "market_share_promo": 30.2,
+            "recommendation": "Kem dưỡng: Average performance, monitor and adjust"
+          },
+          "Sản phẩm làm đẹp": {
+            "sales_lift_percent": -2.35,
+            "price_difference": -249.68,
+            "rating_difference": 0.061,
+            "promo_effectiveness": "low",
+            "market_share_promo": 34.0,
+            "recommendation": "Sản phẩm làm đẹp: Poor promo performance, review strategy"
+          },
+          "Đồ dùng trẻ em": {
+            "sales_lift_percent": 8.25,
+            "price_difference": -239.11,
+            "rating_difference": 0.577,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 34.0,
+            "recommendation": "Đồ dùng trẻ em: Average performance, monitor and adjust"
+          },
+          "Thiết bị gia đình": {
+            "sales_lift_percent": 35.17,
+            "price_difference": -236.87,
+            "rating_difference": 0.092,
+            "promo_effectiveness": "high",
+            "market_share_promo": 32.7,
+            "recommendation": "Thiết bị gia đình: Excellent promo performance, expand program"
+          },
+          "Bộ sản phẩm chăm sóc da": {
+            "sales_lift_percent": 24.89,
+            "price_difference": -227.05,
+            "rating_difference": -0.28,
+            "promo_effectiveness": "high",
+            "market_share_promo": 29.2,
+            "recommendation": "Bộ sản phẩm chăm sóc da: Good promo response, optimize pricing strategy"
+          },
+          "Đồ trang trí": {
+            "sales_lift_percent": 4.64,
+            "price_difference": -255.69,
+            "rating_difference": -0.29,
+            "promo_effectiveness": "low",
+            "market_share_promo": 28.2,
+            "recommendation": "Đồ trang trí: Average performance, monitor and adjust"
+          },
+          "Sữa tắm": {
+            "sales_lift_percent": 13.01,
+            "price_difference": -275.52,
+            "rating_difference": 0.129,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 33.3,
+            "recommendation": "Sữa tắm: Good promo response, optimize pricing strategy"
+          },
+          "Gel lô hội": {
+            "sales_lift_percent": 9.07,
+            "price_difference": -234.7,
+            "rating_difference": -0.218,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 24.7,
+            "recommendation": "Gel lô hội: Average performance, monitor and adjust"
+          },
+          "Đồ handmade": {
+            "sales_lift_percent": 32.45,
+            "price_difference": -239.0,
+            "rating_difference": -0.123,
+            "promo_effectiveness": "high",
+            "market_share_promo": 37.2,
+            "recommendation": "Đồ handmade: Good promo response, optimize pricing strategy"
+          },
+          "Sản phẩm làm trắng": {
+            "sales_lift_percent": 14.54,
+            "price_difference": -234.95,
+            "rating_difference": -0.337,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 31.3,
+            "recommendation": "Sản phẩm làm trắng: Good promo response, optimize pricing strategy"
+          },
+          "Dầu xả": {
+            "sales_lift_percent": 8.97,
+            "price_difference": -228.02,
+            "rating_difference": 0.091,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 33.3,
+            "recommendation": "Dầu xả: Average performance, monitor and adjust"
+          },
+          "Sản phẩm làm sạch cơ thể": {
+            "sales_lift_percent": 5.82,
+            "price_difference": -245.34,
+            "rating_difference": 0.058,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 31.0,
+            "recommendation": "Sản phẩm làm sạch cơ thể: Average performance, monitor and adjust"
+          },
+          "Nước cân bằng": {
+            "sales_lift_percent": 22.28,
+            "price_difference": -214.94,
+            "rating_difference": 0.042,
+            "promo_effectiveness": "high",
+            "market_share_promo": 26.1,
+            "recommendation": "Nước cân bằng: Excellent promo performance, expand program"
+          },
+          "Sản phẩm chống gàu": {
+            "sales_lift_percent": 13.47,
+            "price_difference": -214.85,
+            "rating_difference": 0.088,
+            "promo_effectiveness": "medium",
+            "market_share_promo": 29.5,
+            "recommendation": "Sản phẩm chống gàu: Good promo response, optimize pricing strategy"
+          },
+          "Đồ gia dụng": {
+            "sales_lift_percent": 3.73,
+            "price_difference": -228.25,
+            "rating_difference": -0.023,
+            "promo_effectiveness": "low",
+            "market_share_promo": 31.2,
+            "recommendation": "Đồ gia dụng: Average performance, monitor and adjust"
           },
           "Phấn phủ": {
             "sales_lift_percent": -4.52,
@@ -22179,29 +22123,45 @@
             "market_share_promo": 30.4,
             "recommendation": "Phấn phủ: Poor promo performance, review strategy"
           },
-          "Son môi": {
-            "sales_lift_percent": 9.61,
-            "price_difference": -224.53,
-            "rating_difference": -0.663,
+          "Bột ăn dặm": {
+            "sales_lift_percent": -6.49,
+            "price_difference": -240.08,
+            "rating_difference": -0.317,
+            "promo_effectiveness": "low",
+            "market_share_promo": 33.3,
+            "recommendation": "Bột ăn dặm: Poor promo performance, review strategy"
+          },
+          "Tinh chất dưỡng da": {
+            "sales_lift_percent": 54.39,
+            "price_difference": -231.53,
+            "rating_difference": -0.622,
+            "promo_effectiveness": "high",
+            "market_share_promo": 32.0,
+            "recommendation": "Tinh chất dưỡng da: Good promo response, optimize pricing strategy"
+          },
+          "Túi xách": {
+            "sales_lift_percent": 2.91,
+            "price_difference": -263.12,
+            "rating_difference": 0.063,
+            "promo_effectiveness": "low",
+            "market_share_promo": 35.6,
+            "recommendation": "Túi xách: Average performance, monitor and adjust"
+          },
+          "Dầu gội": {
+            "sales_lift_percent": 12.28,
+            "price_difference": -235.59,
+            "rating_difference": 0.081,
             "promo_effectiveness": "medium",
-            "market_share_promo": 27.0,
-            "recommendation": "Son môi: Average performance, monitor and adjust"
+            "market_share_promo": 34.0,
+            "recommendation": "Dầu gội: Good promo response, optimize pricing strategy"
           },
-          "Mặt nạ thiên nhiên": {
-            "sales_lift_percent": 38.05,
-            "price_difference": -237.08,
-            "rating_difference": 0.024,
+          "Kem mắt": {
+            "sales_lift_percent": 26.37,
+            "price_difference": -247.37,
+            "rating_difference": 0.426,
             "promo_effectiveness": "high",
-            "market_share_promo": 31.0,
-            "recommendation": "Mặt nạ thiên nhiên: Excellent promo performance, expand program"
-          },
-          "Sản phẩm trị mụn": {
-            "sales_lift_percent": 48.25,
-            "price_difference": -219.94,
-            "rating_difference": 0.414,
-            "promo_effectiveness": "high",
-            "market_share_promo": 34.1,
-            "recommendation": "Sản phẩm trị mụn: Excellent promo performance, expand program"
+            "market_share_promo": 32.1,
+            "recommendation": "Kem mắt: Excellent promo performance, expand program"
           },
           "Sản phẩm tập thể dục": {
             "sales_lift_percent": 14.01,
@@ -22210,6 +22170,46 @@
             "promo_effectiveness": "medium",
             "market_share_promo": 29.1,
             "recommendation": "Sản phẩm tập thể dục: Good promo response, optimize pricing strategy"
+          },
+          "Mỹ phẩm trang điểm": {
+            "sales_lift_percent": 21.82,
+            "price_difference": -218.87,
+            "rating_difference": 0.087,
+            "promo_effectiveness": "high",
+            "market_share_promo": 31.1,
+            "recommendation": "Mỹ phẩm trang điểm: Excellent promo performance, expand program"
+          },
+          "Gia dụng": {
+            "sales_lift_percent": 36.89,
+            "price_difference": -229.48,
+            "rating_difference": 0.149,
+            "promo_effectiveness": "high",
+            "market_share_promo": 33.0,
+            "recommendation": "Gia dụng: Excellent promo performance, expand program"
+          },
+          "Sản phẩm giảm cân": {
+            "sales_lift_percent": 16.43,
+            "price_difference": -242.46,
+            "rating_difference": -0.011,
+            "promo_effectiveness": "high",
+            "market_share_promo": 35.2,
+            "recommendation": "Sản phẩm giảm cân: Good promo response, optimize pricing strategy"
+          },
+          "Sản phẩm làm sạch": {
+            "sales_lift_percent": 23.42,
+            "price_difference": -256.8,
+            "rating_difference": -0.063,
+            "promo_effectiveness": "high",
+            "market_share_promo": 37.3,
+            "recommendation": "Sản phẩm làm sạch: Good promo response, optimize pricing strategy"
+          },
+          "Nước hoa nam": {
+            "sales_lift_percent": 17.14,
+            "price_difference": -215.39,
+            "rating_difference": 0.204,
+            "promo_effectiveness": "high",
+            "market_share_promo": 29.4,
+            "recommendation": "Nước hoa nam: Good promo response, optimize pricing strategy"
           }
         }
       }
@@ -22222,8 +22222,8 @@
     ],
     "strategic_recommendations": [
       "Tối ưu hóa targeting và timing của chương trình",
-      "Focus khuyến mãi trên brand: Maybelline, Huggies, Uniqlo",
-      "Focus khuyến mãi trên product_type: Bảng phấn mắt, Mỹ phẩm trang điểm, Máy tính xách tay",
+      "Focus khuyến mãi trên brand: Benton, Nivea Men, Tarte Cosmetics",
+      "Focus khuyến mãi trên product_type: Son bóng, Bảng phấn mắt, Đồ ăn nhanh",
       "Tối ưu giá Thiết bị chiếu sáng trong khoảng 463.39 - 499.47"
     ],
     "risk_factors": [

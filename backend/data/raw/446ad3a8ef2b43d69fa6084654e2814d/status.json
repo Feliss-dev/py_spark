@@ -55,5 +55,14 @@
   "analysis_status": "completed",
   "analysis_summary": {
     "path": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\446ad3a8ef2b43d69fa6084654e2814d\\comprehensive_analysis.json"
+  },
+  "modeling": {
+    "status": "completed",
+    "summary_path": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\446ad3a8ef2b43d69fa6084654e2814d\\price_modeling_summary.json",
+    "scenarios_analyzed": 6,
+    "primary_price_change": -0.1,
+    "group_by": "product_type",
+    "rmse": "N/A",
+    "r_squared": "N/A"
   }
 }

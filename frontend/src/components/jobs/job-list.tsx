@@ -26,6 +26,7 @@ interface JobListProps {
   onComputeEfficiency?: (jobId: string) => void;
   onViewAnalysis?: (jobId: string) => void;
   isLoading?: boolean;
+  actionLoading?: { jobId: string | null; action: 'analyze' | 'efficiency' | null }; // added
 }
 
 export function JobList({
@@ -35,6 +36,7 @@ export function JobList({
   onViewAnalysis,
   onComputeEfficiency,
   isLoading,
+  actionLoading,
 }: JobListProps) {
   const [searchTerm, setSearchTerm] = useState("");
   const router = useRouter();
@@ -145,6 +147,7 @@ export function JobList({
             </TableHeader>
             <TableBody>
               {filteredJobs.map((job) => (
+                
                 <TableRow key={job.job_id}>
                   <TableCell className="font-medium">{job.file_name}</TableCell>
                   <TableCell className="font-mono text-sm flex items-center space-x-2">
@@ -178,6 +181,7 @@ export function JobList({
                             variant="outline"
                             onClick={() => onClassify?.(job.job_id)}
                             title="Classify promotions"
+                            disabled={!!actionLoading?.jobId}
                           >
                             <Play className="w-4 h-4 mr-1" />
                             Classify
@@ -195,25 +199,56 @@ export function JobList({
                       )}
                       {(job.status === "classified" || job.status === "completed") && (
                         <>
-                          <Button
-                            size="sm"
-                            variant="outline"
-                            onClick={() => onAnalyze?.(job.job_id)}
-                            title="Run comprehensive analysis"
-                          >
-                            <BarChart3 className="w-4 h-4 mr-1" />
-                            Analyze
-                          </Button>
+                          {/** Determine if this job is currently running an action */}
+                          {(() => {
+                            const isActionRunning = actionLoading?.jobId === job.job_id;
+                            const runningAnalyze = isActionRunning && actionLoading?.action === "analyze";
+                            const runningEfficiency = isActionRunning && actionLoading?.action === "efficiency";
 
-                          <Button
-                            size="sm"
-                            variant="outline"
-                            onClick={() => onComputeEfficiency?.(job.job_id)}
-                            title="Compute efficiency metrics"
-                          >
-                            <Activity className="w-4 h-4 mr-1" />
-                            Efficiency
-                          </Button>
+                            return (
+                              <>
+                                <Button
+                                  size="sm"
+                                  variant="outline"
+                                  onClick={() => onAnalyze?.(job.job_id)}
+                                  title="Run comprehensive analysis"
+                                  disabled={!!actionLoading?.jobId}
+                                >
+                                  {runningAnalyze ? (
+                                    <span className="inline-flex items-center">
+                                      <span className="w-3 h-3 border-2 border-current border-t-transparent rounded-full animate-spin mr-2" />
+                                      Đang phân tích...
+                                    </span>
+                                  ) : (
+                                    <>
+                                      <BarChart3 className="w-4 h-4 mr-1" />
+                                      Analyze
+                                    </>
+                                  )}
+                                </Button>
+
+                                <Button
+                                  size="sm"
+                                  variant="outline"
+                                  onClick={() => onComputeEfficiency?.(job.job_id)}
+                                  title="Compute efficiency metrics"
+                                  disabled={!!actionLoading?.jobId}
+                                >
+                                  {runningEfficiency ? (
+                                    <span className="inline-flex items-center">
+                                      <span className="w-3 h-3 border-2 border-current border-t-transparent rounded-full animate-spin mr-2" />
+                                      Đang chạy...
+                                    </span>
+                                  ) : (
+                                    <>
+                                      <Activity className="w-4 h-4 mr-1" />
+                                      Efficiency
+                                    </>
+                                  )}
+                                </Button>
+                              </>
+                            );
+                          })()}
                         </>
                       )}
                       {job.status !== "uploaded" && (

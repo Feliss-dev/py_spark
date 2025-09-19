@@ -21,6 +21,7 @@ import {
   useJobEfficiency,
   usePriceLiftAnalysis,
 } from "@/hooks/use-job-data";
+import { mutate as globalMutate } from "swr";
 import {
   Upload,
   Database,
@@ -37,6 +38,7 @@ import {
   CheckCircle,
   Clock,
 } from "lucide-react";
+import { apiClient } from "@/lib/api-client";
 
 type ViewMode = "dashboard" | "analysis";
 
@@ -44,6 +46,7 @@ export default function HomePage() {
   const [viewMode, setViewMode] = useState<ViewMode>("dashboard");
   const [selectedJobId, setSelectedJobId] = useState<string | null>(null);
   const [uploadSuccess, setUploadSuccess] = useState(false);
+  const [actionLoading, setActionLoading] = useState<{ jobId: string | null; action: 'analyze' | 'efficiency' | null }>({ jobId: null, action: null });
 
   // Dashboard hooks
   const { jobs, error: jobsError, isLoading: jobsLoading, refresh } = useJobs();
@@ -90,20 +93,30 @@ export default function HomePage() {
   };
 
   const handleAnalyze = async (jobId: string) => {
+    setActionLoading({ jobId, action: 'analyze' });
     try {
       await runAnalysis(jobId);
+      // refresh cached result for analysis tab
+      globalMutate(`/jobs/analyze/${jobId}/results`);
       refresh();
     } catch (error) {
       console.error("Analysis failed:", error);
+    } finally {
+      setActionLoading({ jobId: null, action: null });
     }
   };
 
   const handleComputeEfficiency = async (jobId: string) => {
+    setActionLoading({ jobId, action: 'efficiency' });
     try {
       await apiClient.getEfficiencyAnalysis(jobId);
+      // refresh cached efficiency data so tab shows new result
+      globalMutate(`/jobs/analysis/${jobId}/efficiency`);
       refresh();
     } catch (error) {
       console.error("Compute efficiency failed:", error);
+    } finally {
+      setActionLoading({ jobId: null, action: null });
     }
   };
 
@@ -314,6 +327,7 @@ export default function HomePage() {
               onComputeEfficiency={handleComputeEfficiency}
               onViewAnalysis={handleViewAnalysis}
               isLoading={jobsLoading}
+              actionLoading={actionLoading}
             />
           </TabsContent>
         </Tabs>

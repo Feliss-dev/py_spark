@@ -1,0 +1,58 @@
+{
+  "analysis_timestamp": "2025-09-19T14:01:46.947103",
+  "data_source": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\raw\\446ad3a8ef2b43d69fa6084654e2814d\\1.shope_lazada.csv",
+  "model_summary": {
+    "quality": "excellent",
+    "r_squared": 0.8229887723700039,
+    "predictive_power": "high",
+    "features_count": 21,
+    "top_features": [
+      "reviews_per_sale",
+      "log_reviews",
+      "brand_performance"
+    ]
+  },
+  "scenarios_analyzed": 6,
+  "analysis_scope": {
+    "group_by": "product_type",
+    "total_products": 10000,
+    "price_range_analyzed": [
+      -0.15,
+      -0.1,
+      -0.05,
+      0.05,
+      0.1,
+      0.15
+    ]
+  },
+  "key_findings": [
+    "Cơ hội tốt nhất: Tăng giá cho 'Sản phẩm giảm thâm' - sản phẩm ít nhạy cảm với giá (điểm số kinh tế: 24.2)",
+    "618 nhóm sản phẩm ít nhạy cảm giá - có thể tăng giá để tối ưu doanh thu"
+  ],
+  "actionable_recommendations": [
+    {
+      "action": "Tăng giá cho 'Tinh chất dưỡng da' - sản phẩm ít nhạy cảm với giá",
+      "expected_impact": "+15.7% doanh thu",
+      "confidence": "high",
+      "group": "Tinh chất dưỡng da"
+    },
+    {
+      "action": "Tăng giá cho 'Kem mắt' - sản phẩm ít nhạy cảm với giá",
+      "expected_impact": "+15.4% doanh thu",
+      "confidence": "high",
+      "group": "Kem mắt"
+    },
+    {
+      "action": "Tăng giá cho 'Sản phẩm giảm thâm' - sản phẩm ít nhạy cảm với giá",
+      "expected_impact": "+15.3% doanh thu",
+      "confidence": "high",
+      "group": "Sản phẩm giảm thâm"
+    }
+  ],
+  "paths": {
+    "model_dir": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\446ad3a8ef2b43d69fa6084654e2814d\\model",
+    "detailed_results": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\446ad3a8ef2b43d69fa6084654e2814d\\recommendations\\scenario_analysis.json",
+    "business_insights": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\446ad3a8ef2b43d69fa6084654e2814d\\recommendations\\business_insights.json",
+    "model_summary": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\446ad3a8ef2b43d69fa6084654e2814d\\model\\model_summary.json"
+  }
+}
