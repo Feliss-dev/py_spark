@@ -1,0 +1,47 @@
+{
+  "executive_summary": {
+    "total_product_groups_analyzed": 103,
+    "scenarios_tested": 6,
+    "strong_opportunities_found": 206,
+    "model_confidence": "high",
+    "overall_recommendation": "actionable_insights_available"
+  },
+  "key_findings": [
+    "Cơ hội tốt nhất: Tăng giá cho 'Sản phẩm giảm thâm' - sản phẩm ít nhạy cảm với giá (điểm số kinh tế: 24.2)",
+    "618 nhóm sản phẩm ít nhạy cảm giá - có thể tăng giá để tối ưu doanh thu"
+  ],
+  "actionable_recommendations": [
+    {
+      "action": "Tăng giá cho 'Tinh chất dưỡng da' - sản phẩm ít nhạy cảm với giá",
+      "expected_impact": "+15.7% doanh thu",
+      "confidence": "high",
+      "group": "Tinh chất dưỡng da"
+    },
+    {
+      "action": "Tăng giá cho 'Kem mắt' - sản phẩm ít nhạy cảm với giá",
+      "expected_impact": "+15.4% doanh thu",
+      "confidence": "high",
+      "group": "Kem mắt"
+    },
+    {
+      "action": "Tăng giá cho 'Sản phẩm giảm thâm' - sản phẩm ít nhạy cảm với giá",
+      "expected_impact": "+15.3% doanh thu",
+      "confidence": "high",
+      "group": "Sản phẩm giảm thâm"
+    }
+  ],
+  "risk_assessment": [
+    "Tránh thay đổi giá cho 309 nhóm sản phẩm có nguy cơ tác động tiêu cực"
+  ],
+  "market_opportunities": [],
+  "model_reliability": {
+    "quality": "excellent",
+    "r_squared": 0.8229887723700039,
+    "confidence_level": "high",
+    "predictive_features": [
+      "reviews_per_sale",
+      "log_reviews",
+      "brand_performance"
+    ]
+  }
+}

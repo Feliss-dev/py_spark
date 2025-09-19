@@ -1,0 +1,99 @@
+{
+  "revenue_metrics": [
+    {
+      "is_promo": 0,
+      "total_revenue": 5585031970.579988,
+      "avg_revenue_per_product": 812368.2866298164,
+      "total_volume": 16599353.0,
+      "avg_price": 330.0507461818185,
+      "product_count": 6875,
+      "revenue_per_unit_sold": 336.4608229356884
+    },
+    {
+      "is_promo": 1,
+      "total_revenue": 796779183.720001,
+      "avg_revenue_per_product": 254969.3387904003,
+      "total_volume": 8329313.0,
+      "avg_price": 88.64632959999997,
+      "product_count": 3125,
+      "revenue_per_unit_sold": 95.65965208895392
+    }
+  ],
+  "price_elasticity": [
+    {
+      "is_promo": 0,
+      "price_segment": "high",
+      "avg_price": 444.9502436938865,
+      "avg_sales": 2531.743907652843,
+      "cnt": 2339
+    },
+    {
+      "is_promo": 0,
+      "price_segment": "low",
+      "avg_price": 213.33539479488297,
+      "avg_sales": 2235.5597706219673,
+      "cnt": 2267
+    },
+    {
+      "is_promo": 0,
+      "price_segment": "medium",
+      "avg_price": 328.21900396650494,
+      "avg_sales": 2472.274129572499,
+      "cnt": 2269
+    },
+    {
+      "is_promo": 1,
+      "price_segment": "high",
+      "avg_price": 144.8942803386642,
+      "avg_sales": 3087.8701787394166,
+      "cnt": 1063
+    },
+    {
+      "is_promo": 1,
+      "price_segment": "low",
+      "avg_price": 34.7090785645005,
+      "avg_sales": 2421.4296799224053,
+      "cnt": 1031
+    },
+    {
+      "is_promo": 1,
+      "price_segment": "medium",
+      "avg_price": 84.58981571290016,
+      "avg_sales": 2473.7274490785644,
+      "cnt": 1031
+    }
+  ],
+  "market_penetration": [
+    {
+      "is_promo": 0,
+      "total_products": 6875,
+      "selling_products": 6875,
+      "penetration_rate": 100.0,
+      "avg_sales_of_selling_products": 2414.4513454545454
+    },
+    {
+      "is_promo": 1,
+      "total_products": 3125,
+      "selling_products": 3125,
+      "penetration_rate": 100.0,
+      "avg_sales_of_selling_products": 2665.38016
+    }
+  ],
+  "insights": {
+    "revenue_lift_percent": -85.73,
+    "revenue_per_product_lift_percent": -68.61,
+    "unit_economics": {
+      "promo_revenue_per_unit": 95.66,
+      "non_promo_revenue_per_unit": 336.46
+    },
+    "assessment": {
+      "revenue_efficiency": "low",
+      "recommendation": "Review promo cost-benefit"
+    }
+  },
+  "csv_paths": {
+    "revenue_metrics_dir": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\1498065914424336beb7c5c0f56ea323\\efficiency\\revenue_metrics_csv",
+    "price_elasticity_dir": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\1498065914424336beb7c5c0f56ea323\\efficiency\\price_elasticity_csv",
+    "market_penetration_dir": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\1498065914424336beb7c5c0f56ea323\\efficiency\\market_penetration_csv"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "model_type": "RandomForestRegressor",
+  "features": [
+    "log_price",
+    "price_vs_market",
+    "price_squared",
+    "rating",
+    "rating_squared",
+    "high_rating",
+    "low_rating",
+    "log_reviews",
+    "reviews_per_sale",
+    "price_rating_interaction",
+    "price_reviews_interaction",
+    "price_elasticity_proxy",
+    "is_shopee",
+    "is_lazada",
+    "brand_performance",
+    "category_performance",
+    "month_numeric",
+    "is_peak_season",
+    "is_summer",
+    "is_premium",
+    "is_budget"
+  ],
+  "feature_count": 21,
+  "best_params": {
+    "numTrees": 100,
+    "maxDepth": 15,
+    "minInstancesPerNode": 1
+  },
+  "feature_importance": {
+    "log_price": 0.0233,
+    "price_vs_market": 0.0157,
+    "price_squared": 0.0109,
+    "rating": 0.0213,
+    "rating_squared": 0.0161,
+    "high_rating": 0.0023,
+    "low_rating": 0.0017,
+    "log_reviews": 0.1185,
+    "reviews_per_sale": 0.6223,
+    "price_rating_interaction": 0.02,
+    "price_reviews_interaction": 0.0284,
+    "price_elasticity_proxy": 0.0247,
+    "is_shopee": 0.0041,
+    "is_lazada": 0.0041,
+    "brand_performance": 0.0325,
+    "category_performance": 0.0301,
+    "month_numeric": 0.0149,
+    "is_peak_season": 0.0034,
+    "is_summer": 0.0035,
+    "is_premium": 0.0013,
+    "is_budget": 0.0009
+  },
+  "performance": {
+    "validation_rmse": 600.5726083763855,
+    "test_rmse": 605.4197670842449,
+    "test_r_squared": 0.8229887723700039,
+    "test_mae": 451.64957941798514
+  },
+  "data_split": {
+    "train_size": 7104,
+    "val_size": 1996,
+    "test_size": 900,
+    "total_size": 10000
+  },
+  "model_quality": "excellent",
+  "top_features": [
+    [
+      "reviews_per_sale",
+      0.6223
+    ],
+    [
+      "log_reviews",
+      0.1185
+    ],
+    [
+      "brand_performance",
+      0.0325
+    ],
+    [
+      "category_performance",
+      0.0301
+    ],
+    [
+      "price_reviews_interaction",
+      0.0284
+    ],
+    [
+      "price_elasticity_proxy",
+      0.0247
+    ],
+    [
+      "log_price",
+      0.0233
+    ],
+    [
+      "rating",
+      0.0213
+    ],
+    [
+      "price_rating_interaction",
+      0.02
+    ],
+    [
+      "rating_squared",
+      0.0161
+    ]
+  ],
+  "model_insights": {
+    "num_trees": 100,
+    "tree_depth": 15,
+    "handles_non_linearity": true,
+    "captures_feature_interactions": true
+  }
+}

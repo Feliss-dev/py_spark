@@ -1,0 +1,59 @@
+{
+  "job_id": "446ad3a8ef2b43d69fa6084654e2814d",
+  "status": "classified",
+  "raw_file": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\raw\\446ad3a8ef2b43d69fa6084654e2814d\\1.shope_lazada.xlsx",
+  "csv_file": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\raw\\446ad3a8ef2b43d69fa6084654e2814d\\1.shope_lazada.csv",
+  "created_at": "2025-09-19T03:38:08.826085Z",
+  "columns": [
+    "product_name",
+    "product_type",
+    "sales_volume",
+    "price",
+    "sale_time",
+    "date",
+    "platform",
+    "brand",
+    "reviews",
+    "rating"
+  ],
+  "columns_ok": true,
+  "classification": {
+    "n_rows": 10000,
+    "promotion_stats": {
+      "total_promotions": 3238,
+      "promotion_rate": 32.379999999999995
+    },
+    "aggregates": [
+      {
+        "is_promo": 1,
+        "n_items": 3238,
+        "total_sales": 8833592.0,
+        "avg_price": 93.44135268684377,
+        "avg_sales_volume": 2728.1012970969737,
+        "median_price": 89.29,
+        "median_sales": 2830.0
+      },
+      {
+        "is_promo": 0,
+        "n_items": 6762,
+        "total_sales": 16095074.0,
+        "avg_price": 331.7887548062705,
+        "avg_sales_volume": 2380.2238982549543,
+        "median_price": 332.12,
+        "median_sales": 2361.0
+      }
+    ],
+    "processed_parquet": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\446ad3a8ef2b43d69fa6084654e2814d\\processed.parquet",
+    "processed_csv_dir": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\446ad3a8ef2b43d69fa6084654e2814d\\processed_csv"
+  },
+  "analysis": {
+    "last_efficiency": {
+      "path": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\446ad3a8ef2b43d69fa6084654e2814d\\efficiency\\efficiency_summary.json",
+      "ts": "2025-09-19T03:50:44.198738Z"
+    }
+  },
+  "analysis_status": "completed",
+  "analysis_summary": {
+    "path": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\446ad3a8ef2b43d69fa6084654e2814d\\comprehensive_analysis.json"
+  }
+}

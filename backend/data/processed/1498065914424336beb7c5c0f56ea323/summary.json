@@ -1,0 +1,29 @@
+{
+  "n_rows": 10000,
+  "promotion_stats": {
+    "total_promotions": 3125,
+    "promotion_rate": 31.25
+  },
+  "aggregates": [
+    {
+      "is_promo": 1,
+      "n_items": 3125,
+      "total_sales": 8329313.0,
+      "avg_price": 88.64632959999997,
+      "avg_sales_volume": 2665.38016,
+      "median_price": 86.45,
+      "median_sales": 2750.0
+    },
+    {
+      "is_promo": 0,
+      "n_items": 6875,
+      "total_sales": 16599353.0,
+      "avg_price": 330.0507461818185,
+      "avg_sales_volume": 2414.4513454545454,
+      "median_price": 329.03,
+      "median_sales": 2398.0
+    }
+  ],
+  "processed_parquet": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\1498065914424336beb7c5c0f56ea323\\processed.parquet",
+  "processed_csv_dir": "D:\\AUniversityDocs\\N4\\BigData\\bigdata\\backend\\app\\..\\data\\processed\\1498065914424336beb7c5c0f56ea323\\processed_csv"
+}
